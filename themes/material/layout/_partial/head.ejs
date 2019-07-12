@@ -120,6 +120,15 @@
 
     <%- partial('_partial/config_css') %>
 
+    <!-- Import Font-Awesome -->
+    <% if(theme.vendors.fontawesome) { %>
+        <link rel="stylesheet" href="<%= theme.vendors.fontawesome %>">
+    <% } else if(theme.vendors.materialcdn) { %>
+        <link rel="stylesheet" href="<%= theme.vendors.materialcdn %>/css/fontawesome.min.css">
+    <% } else { %>
+        <link rel="stylesheet" href="<%= url_for('css/fontawesome.min.css') %>">
+    <% } %>
+
     <!-- Import jQuery -->
     <% if(theme.vendors.jquery) { %>
         <%- jsLsload({path:(theme.vendors.jquery),key:'jq_js'}) %>
