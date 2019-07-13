@@ -13,6 +13,8 @@ thumbnail:
 
 > 对 Hypertext Transfer Protocol -- HTTP/1.1 中关于状态码定义的翻译
 
+---
+
 > part of [Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)  
 > RFC 2616 Fielding, et al.
 

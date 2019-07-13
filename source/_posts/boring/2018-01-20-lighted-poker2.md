@@ -13,6 +13,8 @@ thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/lighted-poke
 
 > 记录我为我的Poker2加上背光的过程，作为纪念
 
+---
+
 首先我特别想安利一波Poker2，Poker2是非常优雅的一款键盘。
 
 ![键盘展示1](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/lighted-poker2/1.jpg)

@@ -11,7 +11,9 @@ tags:
 thumbnail:
 ---
 
-这是第一次使用Markdown时，对Markdown的基本语法都不了解，通过这一篇文章学习、尝试
+> 这是第一次使用Markdown时，对Markdown的基本语法都不了解，通过这一篇文章学习、尝试
+
+---
 
 > Markdown 是一种轻量级的标记语言
 
