@@ -1,6 +1,5 @@
 ---
 title: IKBC Poker2 加灯历程
-description: hhh
 date: 2018-01-20
 updated: 2019-07-12
 layout: post

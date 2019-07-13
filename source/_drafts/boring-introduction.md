@@ -1,4 +1,12 @@
-# 无聊的日常 - 导读
+---
+title: 无聊的日常 - 导读
+date: 2019-07-12
+updated: 2019-07-12
+layout: post
+categories:
+tags:
+thumbnail:
+---
 
 > 该目录下的文章只是 Keyboard 对一些个人生活琐事的分享，十分无聊
 
