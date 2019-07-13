@@ -1,7 +1,6 @@
 <script src="//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/plugins/valine/av-min.js"></script>  <!-- //cdn1.lncld.net/static/js/3.0.4/av-min.js -->
 <script src="//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/plugins/valine/Valine.min.js"></script>  <!-- //unpkg.com/valine/dist/Valine.min.js -->
 <script>
-    document.getElementById("leancloud-visitor").id = window.location.pathname;
     var GUEST_INFO = ['nick','mail','link'];
     var guest_info = '<%= theme.comment.valine_guest_info %>'.split(',').filter(function(item){
         return GUEST_INFO.indexOf(item) > -1
