@@ -9,7 +9,7 @@ tags:
 - DIY
 - 软路由
 - 搞机
-thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/router/shell27.jpg
+thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/router/shell_thumbnail.jpg
 ---
 
 2018年秋冬之交（双十一前后），用工控主板搭了一个软路由和 NAS ，详见这两篇文章 {% post_link boring-2018-11-02-router1-hardware %} 和 {% post_link boring-2019-02-18-router2-software %}
