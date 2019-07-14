@@ -147,12 +147,16 @@ license:
 # Gallery Panel
 # You must activate Formspree before using
 gallery:
-    panel_show: false
+    panel_show: true
     left_show: true
-    left_title: Introduction
-    left_info: This is a Example.
+    left_title: 简介
+    left_info: 
+        这里放的都是 KeybrL 拍摄的照片。
+        它们中的有一些曾经出现在文章中，你可以找到它们的故事。
+        有一些实在太无聊，不值得写一篇文章，就放在这里，它们到底有什么含义，没有人知道。
+        这里的每一张照片，版权都由我本人所有，使用前请务必先与我联系 keyboard-l@outlook.com 。
     right_show: true
-    right_title: Get in touch
+    right_title: 联系作者
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -207,22 +211,34 @@ sidebar:
     categories:
         use: true
         icon: chrome_reader_mode
-        divider: true
+        divider: false
     archives:
         use: false
         icon: inbox
         divider: false
     pages:
-        友情链接:
-            link: "/links"
+        标签:
+            link: "/tags/"
+            icon: label
+            divider: false
+        时间线:
+            link: "/timeline/"
+            icon: nature_people
+            divider: false
+        照片墙:
+            link: "/gallery/"
+            icon: photo_library
+            divider: true
+        友链列表:
+            link: "/links/"
             icon: group
             divider: false
         小额赞助:
-            link: "/donate"
+            link: "/donate/"
             icon: thumb_up
             divider: false
         关于:
-            link: "/about"
+            link: "/about/"
             icon: person
             divider: true
     article_num:
