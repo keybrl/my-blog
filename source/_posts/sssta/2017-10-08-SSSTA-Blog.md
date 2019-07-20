@@ -1,7 +1,7 @@
 ---
 title: 在GitHub上通过Jekyll搭建个人博客
 date: 2017-10-08
-updated: 2019-07-13
+updated: 2017-10-08
 layout: post
 categories:
 - SS::STA

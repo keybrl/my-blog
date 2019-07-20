@@ -1,7 +1,7 @@
 ---
 title: 俄罗斯方块
 date: 2017-06-12
-updated: 2019-07-13
+updated: 2017-06-12
 layout: post
 categories:
 - 垃圾代码

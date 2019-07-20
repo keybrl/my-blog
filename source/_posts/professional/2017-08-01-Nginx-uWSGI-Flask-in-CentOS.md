@@ -1,7 +1,7 @@
 ---
 title: CentOS中通过Nginx和uWSGI部署Flask项目
 date: 2017-08-01
-updated: 2019-07-12
+updated: 2017-08-01
 layout: post
 categories:
 - 专业相关

@@ -1,7 +1,7 @@
 ---
 title: Python入门1
 date: 2017-09-29
-updated: 2019-07-13
+updated: 2017-09-29
 layout: post
 categories:
 - SS::STA

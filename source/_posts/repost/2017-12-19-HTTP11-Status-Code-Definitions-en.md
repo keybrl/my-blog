@@ -1,7 +1,7 @@
 ---
 title: HTTP/1.1 - Status Code Definitions
 date: 2017-12-19
-updated: 2019-07-13
+updated: 2017-12-19
 layout: post
 categories:
 - 转载

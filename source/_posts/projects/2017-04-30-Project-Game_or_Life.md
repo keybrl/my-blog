@@ -1,7 +1,7 @@
 ---
 title: 生命游戏
 date: 2017-04-30
-updated: 2019-07-13
+updated: 2017-04-30
 layout: post
 categories:
 - 垃圾代码

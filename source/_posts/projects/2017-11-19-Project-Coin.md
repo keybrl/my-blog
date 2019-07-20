@@ -1,7 +1,7 @@
 ---
 title: 概率神教 - 优秀的问题解决方案
 date: 2017-11-19
-updated: 2019-07-13
+updated: 2017-11-19
 layout: post
 categories:
 - 垃圾代码

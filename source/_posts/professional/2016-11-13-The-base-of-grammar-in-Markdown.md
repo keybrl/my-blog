@@ -1,7 +1,7 @@
 ---
 title: Markdown语法基础
 date: 2016-11-13
-updated: 2019-07-12
+updated: 2016-11-13
 layout: post
 categories:
 - 专业相关

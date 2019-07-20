@@ -1,7 +1,7 @@
 ---
 title: keybrl-mines - 优雅的扫雷从此无处不在
 date: 2018-10-14
-updated: 2019-07-13
+updated: 2018-10-14
 layout: post
 categories:
 - 垃圾代码

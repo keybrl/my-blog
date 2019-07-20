@@ -1,7 +1,7 @@
 ---
 title: 通过MkDocs搭建个人博客
 date: 2018-05-19
-updated: 2019-07-12
+updated: 2018-05-19
 layout: post
 categories:
 - 专业相关

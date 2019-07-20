@@ -1,7 +1,7 @@
 ---
 title: 使用Python发送邮件
 date: 2017-04-09
-updated: 2019-07-12
+updated: 2017-04-09
 layout: post
 categories:
 - 专业相关

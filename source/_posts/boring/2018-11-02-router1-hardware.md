@@ -1,7 +1,7 @@
 ---
 title: 软路由与NAS(1) - 硬件平台搭建
 date: 2018-11-02
-updated: 2019-07-12
+updated: 2018-11-02
 layout: post
 categories:
 - 无聊的日常

@@ -1,7 +1,7 @@
 ---
 title: Windows 常用注册表项
 date: 2018-10-23
-updated: 2019-07-12
+updated: 2018-10-23
 layout: post
 categories:
 - 专业相关

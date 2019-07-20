@@ -1,7 +1,7 @@
 ---
 title: HTTP/1.1 - 状态码定义
 date: 2017-12-19
-updated: 2019-07-12
+updated: 2017-12-19
 layout: post
 categories:
 - 专业相关

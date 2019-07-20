@@ -1,7 +1,7 @@
 ---
 title: 软路由与NAS(3) - 外壳
 date: 2019-02-22
-updated: 2019-07-12
+updated: 2019-02-22
 layout: post
 categories:
 - 无聊的日常

@@ -1,7 +1,7 @@
 ---
 title: IKBC Poker2 加灯历程
 date: 2018-01-20
-updated: 2019-07-12
+updated: 2018-01-20
 layout: post
 categories:
 - 无聊的日常
