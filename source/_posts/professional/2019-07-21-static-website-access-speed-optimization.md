@@ -7,6 +7,10 @@ categories:
 - 专业相关
 tags:
 - 博客搭建
+- 建站
+- 静态网站
+- OSS
+- GitHub Pages
 thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/negative_one_s.jpg
 ---
 
