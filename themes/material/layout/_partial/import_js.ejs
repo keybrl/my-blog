@@ -89,7 +89,12 @@
     <% if (theme.prettify.enable) { %>
         <% if ( (is_post()) ) { %>
             $(function() {
-                $('pre').addClass('prettyprint linenums').attr('style', 'overflow:auto;');
+                <% if (theme.prettify.line_number) { %>
+                    $('pre').addClass('prettyprint linenums').attr('style', 'overflow:auto;');
+                <% } else { %>
+                    $('pre').addClass('prettyprint').attr('style', 'overflow:auto;');
+                <% } %>
+                $('pre code').attr('class', 'language-' + $('pre code').attr('class'))
                 prettyPrint();
                 })
         <% } %>
