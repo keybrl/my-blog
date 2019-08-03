@@ -2,7 +2,7 @@
 /Thumbs.db
 /db.json
 *.log
-_config.yml
+/themes/material/_config.yml
 /node_modules/
 /public/
 /.deploy*/
