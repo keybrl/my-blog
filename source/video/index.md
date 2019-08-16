@@ -6,6 +6,10 @@ updated: 2019-08-16
 comments: false
 ---
 
+因为有些视频文件过大，qq群文件上传缓慢，或者不方便浏览，所以上传 OSS 通过 CDN 分发，这里是群里面主要视频和简单前后文的汇总
+
+---
+
 **Frank 的 VS Code 指南**
 
 [https://video.keybrl.com/csssta/frank-vscode-tutorial.mp4](https://video.keybrl.com/csssta/frank-vscode-tutorial.mp4?start=1)
