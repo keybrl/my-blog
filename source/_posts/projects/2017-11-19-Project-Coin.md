@@ -7,7 +7,7 @@ categories:
 - 垃圾代码
 tags:
 - Web前端
-thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/project_img/Coin/preview.png
+thumbnail: https://oss.keybrl.com/images/project_img/Coin/preview.png
 ---
 
 > 科学决策，关于random()的极致利用
@@ -28,7 +28,7 @@ thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/project_img/
 
 他目前主要有3个功能
 
-![手机端效果预览](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/project_img/Coin/preview.png)
+![手机端效果预览](https://oss.keybrl.com/images/project_img/Coin/preview.png)
 
 #### Coin
 

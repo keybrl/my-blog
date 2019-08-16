@@ -11,7 +11,7 @@ tags:
 - 静态网站
 - OSS
 - GitHub Pages
-thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/negative_one_s.jpg
+thumbnail: https://oss.keybrl.com/images/static-website-access-speed-optimization/negative_one_s.jpg
 ---
 
 我发现现在很多计算机相关专业的人博客里面写的文章满满的都是算法、机器学习、大数据、云计算什么的，感觉像我这么菜的人实在是看不下去。于是打算写点接地气的专业相关的文章，我发现我对博客搭建情有独钟，写了不少文章，包括 [在GitHub上通过Jekyll搭建个人博客](/sssta-2017-10-08-SSSTA-Blog/) 、 [通过MkDocs搭建个人博客](/professional-2018-05-19-mkdocs-blog/) 、还有最近更新的 [Nginx常用配置套路](/professional-2018-07-02-nginx-configure/) 也算是网站搭建相关了，等用一段时间 Hexo 我可能会再写一篇 Hexo 相关的，这篇文章我们先来聊聊如果你有了一个博客，你可以怎么优化它的访问速度。
@@ -30,11 +30,11 @@ thumbnail: //keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-websi
 
 首先是我所处网络环境的测速结果
 
-![speedtest](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/speedtest.jpg)
+![speedtest](https://oss.keybrl.com/images/static-website-access-speed-optimization/speedtest.jpg)
 
-![keybrl_loading](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/keybrl_loading.jpg)
+![keybrl_loading](https://oss.keybrl.com/images/static-website-access-speed-optimization/keybrl_loading.jpg)
 
-![dapao_loading](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/dapao_loading.jpg)
+![dapao_loading](https://oss.keybrl.com/images/static-website-access-speed-optimization/dapao_loading.jpg)
 
 图一是我所处网络环境在 [speedtest.cn](http://www.speedtest.cn/) 的测速结果，表明我测试时有 20Mbps 左右的下行带宽。图二是我博客某篇文章加载的时序图，图三是某个朋友博客首页加载的时序图。
 
@@ -74,13 +74,13 @@ GitHub Pages 是免费的，带宽肯定不用想能有多高，而且国内经�
 
 下面我们以阿里云的 OSS 来演示一下具体操作。注册一个阿里云账号，登录控制台，点开左上角菜单，就能看到 “对象存储 OSS”
 
-![aliyun_console](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/aliyun_console.jpg)
+![aliyun_console](https://oss.keybrl.com/images/static-website-access-speed-optimization/aliyun_console.jpg)
 
 点击进入对象存储的控制台，第一次进去应该会有确认开通服务的提示。左侧 bucket 列表，点一下 + 号，新建一个 bucket
 
-![oss_console](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/oss_console.jpg)
+![oss_console](https://oss.keybrl.com/images/static-website-access-speed-optimization/oss_console.jpg)
 
-![create_bucket](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/create_bucket.jpg)
+![create_bucket](https://oss.keybrl.com/images/static-website-access-speed-optimization/create_bucket.jpg)
 
 起个名字，选个地域，存储类型选 “标准存储” ，读写权限选 “公共读” ，无服务端加密，日志看需要开吧。
 
@@ -88,13 +88,13 @@ GitHub Pages 是免费的，带宽肯定不用想能有多高，而且国内经�
 
 开完之后对象存储控制台左侧 bucket 列表里就会有新创建的 bucket 。点进去，点文件管理
 
-![bucket_console](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/bucket_console.jpg)
+![bucket_console](https://oss.keybrl.com/images/static-website-access-speed-optimization/bucket_console.jpg)
 
 里面的操作就和网盘差不多了，自己创建目录，上传文件
 
 然后怎么访问里面的文件呢，回到 bucket 的 “概览”  ，可以看到 bucket 的外网访问域名
 
-![bucket_host](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/bucket_host.jpg)
+![bucket_host](https://oss.keybrl.com/images/static-website-access-speed-optimization/bucket_host.jpg)
 
 比如说你的得到的是 `whatever.oss-cn-hangzhou.aliyuncs.com` 你 bucket 里面有个文件夹叫 `images` 里面有张图片叫做 `hhh.png` ，那么这张图片的 url 就是 `https://whatever.oss-cn-hangzhou.aliyuncs.com/images/hhh.png` 。实际上就是 bucket 域名后面加文件路径， http 和 https 都可以，看需要。
 
@@ -108,7 +108,7 @@ oss_url: https://whatever.oss-cn-hangzhou.aliyuncs.com
 
 然后在文章中用
 
-![jekyll_template](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/jekyll_template.png)
+![jekyll_template](https://oss.keybrl.com/images/static-website-access-speed-optimization/jekyll_template.png)
 
 就可以访问到刚刚那张图片（为什么我要用截图，而不直接写出来呢，因为智障 Hexo 会试图解析双大括号，即使他放在行内式代码块中）。这样以后要换 bucket ，或者要给这个 bucket 加 cdn ，用自己的域名，都可以很方便修改。
 
@@ -116,7 +116,7 @@ oss_url: https://whatever.oss-cn-hangzhou.aliyuncs.com
 
 除了图片，页面使用的 CSS 、 JS 、字体文件都可以扔到 OSS ，如果你知道去哪里修改这些资源的 url 的话。而且如果你要这样做，建议你修改 bucket 的同源策略，在 bucket 控制台上方导航栏的 “基础设置” -> “跨域设置” ，添加一条这样的规则
 
-![cors_setting](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/cors_setting.jpg)
+![cors_setting](https://oss.keybrl.com/images/static-website-access-speed-optimization/cors_setting.jpg)
 
 他会在响应头加上 `Origin: *` 以确保资源可以被任何来源的请求获取。如果你确定你的资源只会用于你一个 `blog.keybrl.com` 域名的博客的话，你也可以把 `*` 换成 `blog.keybrl.com` 。
 
@@ -154,7 +154,7 @@ DOMContent 直接翻译一下就是 文档 对象 模型 内容，但其实熟�
 
 所以我的解决方案就是写了一个脚本，自动同步，他会检查本地目录和 OSS Bucket 上文件名是否有不同的，然后执行删除或者增加文件的操作，如果是同名文件，对它们哈希校验，看看文件是否有修改，有修改的就将本地的再上传一次，覆盖 OSS 上的。它可以自动将本地一个目录下的文件全部同步到 OSS 一个 Bucket 上，包括里面所有的嵌套文件夹。一次根据需要同步的文件数目不同大概需要十几秒到几分钟不等。这就是 OSS 比图床、网盘的优势了， OSS 有丰富的接口可以通过编程与之交互。这个脚本我就不细说了，感兴趣的可以看看这个项目 [keybrl/oss_sync](https://github.com/keybrl/oss_sync) 。我现在虽然不用这种 OSS 建站的方法了，但我其实仍然在使用这个脚本，我用它同步我 OSS 上的图片。
 
-![upload_images](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/static-website-access-speed-optimization/upload_images.jpg)
+![upload_images](https://oss.keybrl.com/images/static-website-access-speed-optimization/upload_images.jpg)
 
 我一般写博客就会打开这么一个终端，一边写一边上传需要的图片。
 

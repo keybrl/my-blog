@@ -13,7 +13,7 @@ thumbnail:
 
 > SS::STA 2017第一次活动，关于Python的初步认识
 
-> [点击此链接](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/data/SSSTA%20-%20Python%E5%85%A5%E9%97%A81%20-%20%E7%BD%97%E9%98%B3%E8%B1%AA.zip)，下载该篇所涉及的源代码
+> [点击此链接](https://oss.keybrl.com/data/SSSTA%20-%20Python%E5%85%A5%E9%97%A81%20-%20%E7%BD%97%E9%98%B3%E8%B1%AA.zip)，下载该篇所涉及的源代码
 
 ## 什么是Python
 

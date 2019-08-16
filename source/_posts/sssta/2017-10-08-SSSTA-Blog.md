@@ -48,7 +48,7 @@ thumbnail:
 
 **GitHub是一个通过Git进行版本控制的软件源代码托管平台** ，那是一个有趣的地方，多去逛逛。
 
-![Welcome home, developers](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/SSSTA-Blog/welcome_home.png)
+![Welcome home, developers](https://oss.keybrl.com/images/SSSTA-Blog/welcome_home.png)
 
 GitHub主要可以帮助你保管代码，协助你与小伙伴合作写项目以及为你提供大量优秀的开源项目（这样你就不用自己写了）
 
@@ -65,7 +65,7 @@ GitHub主要可以帮助你保管代码，协助你与小伙伴合作写项目�
 
 首先查看仓库克隆地址
 
-![仓库克隆地址](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/SSSTA-Blog/clone_url.png)
+![仓库克隆地址](https://oss.keybrl.com/images/SSSTA-Blog/clone_url.png)
 
 然后在本地克隆一份
 
@@ -235,9 +235,9 @@ git push origin master
 
 如果我们要解析到自己的GitHub Pages，那么你就选择 `CNAME` 记录类型，记录值填 `username.github.io.` ， `username` 是你的GitHub用户名，主机记录按自己喜好填，其他默认。然后在GitHub上再填上自己解析好的域名，确定，即可。
 
-![腾讯云设置解析](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/SSSTA-Blog/tencentcloud_dns_set.png)
+![腾讯云设置解析](https://oss.keybrl.com/images/SSSTA-Blog/tencentcloud_dns_set.png)
 
-![GitHub设置自定义域名](//keybrl-blog-assets.oss-cn-hangzhou.aliyuncs.com/images/SSSTA-Blog/github_domain_set.png)
+![GitHub设置自定义域名](https://oss.keybrl.com/images/SSSTA-Blog/github_domain_set.png)
 
 然后就大功告成了，你可以试着访问一下。
 

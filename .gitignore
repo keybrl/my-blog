@@ -1,11 +1,11 @@
+/.public/
+/.deploy*/
+/node_modules/
+/.oss_assets/
+/sync/config/*.json
+/themes/material/_config.yml
 /.DS_Store
 /Thumbs.db
 /db.json
 *.log
-/themes/material/_config.yml
-/node_modules/
-/public/
-/.deploy*/
-/oss_assets/
-/sync/config/*.json
 __pycache__/
