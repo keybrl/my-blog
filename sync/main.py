@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 from tencent_cos import TencentCOSBucket
 from aliyun_oss import AliyunOSSBucket
@@ -23,6 +24,10 @@ if __name__ == '__main__':
     blog_assets_file = FileManager('../.oss_assets')
 
     # OSSSynchronizer(blog_file, blog_oss).sync_from_local_to_oss()
-    OSSSynchronizer(blog_file, blog_cos).sync_from_local_to_oss()
+    # OSSSynchronizer(blog_file, blog_cos).sync_from_local_to_oss()
     # OSSSynchronizer(blog_assets_file, blog_assets_oss).sync_from_local_to_oss()
+    # OSSSynchronizer(blog_assets_file, blog_assets_cos).sync_from_local_to_oss()
+
+    if 'deploy' in sys.argv:
+        OSSSynchronizer(blog_file, blog_cos).sync_from_local_to_oss()
     OSSSynchronizer(blog_assets_file, blog_assets_cos).sync_from_local_to_oss()
