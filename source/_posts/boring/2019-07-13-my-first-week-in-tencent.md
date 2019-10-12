@@ -6,8 +6,8 @@ layout: post
 categories:
 - 无聊的日常
 tags:
-- 腾讯实习
-- 人生经验
+- 找工作
+- 思考人生
 thumbnail: https://oss.keybrl.com/images/my-first-week-in-tencent/滨海大厦5am.jpg
 ---
 
