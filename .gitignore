@@ -1,9 +1,7 @@
 /.public/
 /.deploy*/
 /node_modules/
-/.oss_assets/
-/.oss_video/
-/sync/config/*.json
+/deploy/
 /themes/material/_config.yml
 /.DS_Store
 /Thumbs.db
