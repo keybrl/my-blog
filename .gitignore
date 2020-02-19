@@ -2,7 +2,6 @@
 /.deploy*/
 /node_modules/
 /deploy/
-/themes/material/_config.yml
 /.DS_Store
 /Thumbs.db
 /db.json
