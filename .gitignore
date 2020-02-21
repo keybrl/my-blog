@@ -1,9 +1,11 @@
+/.idea/
 /.public/
 /.deploy*/
 /node_modules/
-/deploy/
 /.DS_Store
 /Thumbs.db
 /db.json
 *.log
 __pycache__/
+
+/deploy/

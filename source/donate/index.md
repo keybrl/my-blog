@@ -1,12 +1,10 @@
 ---
 title: 小额赞助
+subtitle: Help shape the future of this Blog. (客套话)
 date: 2019-07-12
-updated: 2019-07-12
+updated: 2020-02-22
 layout: page
-comments: false
 ---
-
-> **Help shape the future of this Blog.** (客套话)
 
 如果你觉得这个博客的内容不错，或者单纯觉得打赏是件有趣的事情
 

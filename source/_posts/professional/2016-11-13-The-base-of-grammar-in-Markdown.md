@@ -1,5 +1,5 @@
 ---
-title: Markdown语法基础
+title: Markdown 语法基础
 date: 2016-11-13
 updated: 2016-11-13
 layout: post
@@ -11,31 +11,78 @@ tags:
 thumbnail:
 ---
 
-> 这是第一次使用Markdown时，对Markdown的基本语法都不了解，通过这一篇文章学习、尝试
+> 这篇文章原本是 2016 年最开始使用 Markdown 对 Markdown 的基本语法都不了解时写的，当时希望通过这一篇文章学习、尝试 ... 这也是我博客的第一篇文章
+>
+> 但是你现在看到的这篇是 2020 年重制版，补充了我这 4 年对 Markdown 语法的认知，特别是过去没有区分清楚的“标准语法”和“扩展语法”。
+>
+> （重制它是因为感觉我原本写的东西太扯了。）
 
 ---
 
-> Markdown 是一种轻量级的标记语言
+## Markdown 是什么
 
-在你使用 Markdown 之前你首先要确定你是否真的需要 Markdown。
+很多刚开始接触 Markdown 或者没有接触过 Markdown 的同学可能不理解 Markdown 是什么，很多人或许会以为 Markdown 是一种文本编辑软件（类似 Microsoft Word ），或者以为 Markdown 是一种对文本内容和格式的定义（类似 LaTeX ），但其实都不是。尽管很多介绍 Markdown 的文章都喜欢将 Markdown 和 Microsoft Word 或 LaTeX 做对比，但其实 Markdown 与它们几乎没有任何相似性，自然也没有对比的意义。
 
-Markdown 是为那些需要经常码字或进行文字排版的，对码字速度和排版顺畅度有要求的人群设计的，他们希望用键盘把文字内容敲出来后就已经完成排版了，最好完全不用碰鼠标。这些人包括经常要写文档的软件工程师、博客写手、网站小编、出版业人士等。
+Markdown 其实可以理解为 HTML 的子集的方言。按照 Markdown 的发明者 *John Gruber* 的说法：
 
-所以，如果 Markdown 并不能提高你的工作效率，那就让它见鬼去吧。
+> Markdown is a text-to-HTML conversion tool for web writers.  
+> Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+>
+> 译：
+>
+> Markdown 是面向 Web 作家的一个从文本到 HTML 的转换工具。  
+> Markdown 允许你使用易于阅读，易于编写的纯文本格式进行编写，然后将其转换为结构上有效的 XHTML（或 HTML ）。
 
-如果你已经明确你需要使用 Markdown ，那么你一定需要了解一些语法和标记……
+Markdown 的意义，其实就是方便人们写 HTML 。网页上不能方便嵌入一个 Microsoft Word 写的文档，但是可以无缝嵌入一段由 Markdown 转换而成的 HTML 代码，所以为什么基于 Web 的文档、博客、基于 Web 的富文本编辑器、 ... 都喜欢使用 Markdown 。
 
----
+实际上 Markdown 的语法与 HTML 是一一对应的。了解 HTML 的人应该都清楚， HTML 代码只能定义文章的结构，不定义其样式或者格式。所以同样的， Markdown 代码也仅仅是对文章结构的定义，至于它呈现怎样的样式，取决于展示环境对样式的定义（比如加载到这个页面的 CSS ）。所以你经常会发现你在你的 Markdown 编辑器上看到的和你上传到 GitHub 的或者部署到你博客的显示效果不同。
 
-## 区块元素
+作为建议，了解 Markdown 之前可以先了解 HTML ，下文也会经常介绍到它们的对应关系。
 
-区块元素一般以段落为单位，所以应用区块元素时注意段落的范围
+## 块元素
 
-区块元素主要有 Heading、Quote、Table、Code Fence、List、Horizontal Line……
+块元素就是对应 HTML 里面默认 `display: block` 的元素。比如标题、段落、有序列表、无序列表、引用块、 ...
 
-在介绍他们之前，我们先区分一下什么是一个 Paragraph (段落)
+Markdown 中块元素之间需要有至少一行“空行”分隔。“空行”的意思是“看起来空的行”，所以只含空格、制表符的行也是“空行”。
 
-### Paragraph
+最简单的一种块元素就是“段落”。
+
+### 段落和换行
+
+段落是简单的一行或连续的多行文本。对应 HTML 里的 `<p></p>` 。
+
+示例如下：
+
+```markdown
+只要像这样随便写一行。
+
+或者也可以这样分多行写。
+同一个段落的第二行。
+同一个段落的第三行。
+```
+
+以上示例的效果：
+
+只要像这样随便写一行。
+
+或者也可以这样分多行写。
+同一个段落的第二行。
+同一个段落的第三行。
+
+可以看到，显示出来的文本没有换行
+
+因为它们被转换为了这样一段 HTML 代码
+
+```html
+<p>
+	只要像这样随便写一行。
+</p>
+<p>
+	或者也可以这样分多行写。
+	同一个段落的第二行。
+	同一个段落的第三行。
+</p>
+```
 
 在 Markdown 中，段落由一个或多个连续的文本行组成，前后有一个或以上的空行(空行的定义是显示上看起来像是空的行。因此，若某一行只包含空格和制表符，则该行也会被视为空行)。
 

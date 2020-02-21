@@ -44,6 +44,10 @@ highlight:
   auto_detect: false
   tab_replace:
 
+marked:
+  gfm: true
+  breaks: false
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -73,7 +77,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
