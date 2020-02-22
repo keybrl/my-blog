@@ -8,7 +8,6 @@ categories:
 tags:
 - SS::STA 2017 活动
 - Python
-thumbnail:
 ---
 
 > SS::STA 2017第二次活动前半部分，关于Python入门

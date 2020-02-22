@@ -7,7 +7,8 @@ categories:
 - 垃圾代码
 tags:
 - Web前端
-thumbnail: https://oss.keybrl.com/images/project_img/Game_of_Life/Gospers_glider_gun.gif
+banner_img: https://oss.keybrl.com/images/2017-04-30-project-game_or_life/gospers_glider_gun.gif
+index_img: https://oss.keybrl.com/images/2017-04-30-project-game_or_life/gospers_glider_gun.gif
 ---
 
 > 细胞自动机（英语：Cellular automaton），又称格状自动机、元胞自动机，是一种离散模型，在可算性理论、数学及理论生物学都有相关研究。该项目是一个该游戏的Web实现
@@ -16,7 +17,7 @@ thumbnail: https://oss.keybrl.com/images/project_img/Game_of_Life/Gospers_glider
 
 **细胞自动机**（英语：Cellular automaton），又称**格状自动机**、**元胞自动机**，是一种离散模型，在可算性理论、数学及理论生物学都有相关研究。它是由无限个有规律、坚硬的方格组成，每格均处于一种有限状态。整个格网可以是任何有限维的。同时也是离散的。每格于t时的态由t-1时的一集有限格（这集叫那格的邻域）的态决定。每一格的“邻居”都是已被固定的。（一格可以是自己的邻居。）每次演进时，每格均遵从同一规矩一齐演进。
 
-![whatever](https://oss.keybrl.com/images/project_img/Game_of_Life/Gospers_glider_gun.gif)
+![whatever](https://oss.keybrl.com/images/2017-04-30-project-game_or_life/gospers_glider_gun.gif)
 
 就形式而言，细胞自动机有三个特征：
 

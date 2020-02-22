@@ -9,7 +9,6 @@ tags:
 - Python
 - Linux
 - 教程
-thumbnail:
 ---
 
 > 部署Flask项目的新姿势

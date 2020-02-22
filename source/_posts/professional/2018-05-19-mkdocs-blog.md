@@ -10,7 +10,6 @@ tags:
 - MkDocs
 - Python
 - 教程
-thumbnail:
 ---
 
 > 9分钟拥有一个自己的博客

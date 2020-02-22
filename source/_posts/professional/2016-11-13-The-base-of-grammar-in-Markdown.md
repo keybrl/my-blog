@@ -8,7 +8,6 @@ categories:
 tags:
 - Markdown
 - 教程
-thumbnail:
 ---
 
 > 这篇文章原本是 2016 年最开始使用 Markdown 对 Markdown 的基本语法都不了解时写的，当时希望通过这一篇文章学习、尝试 ... 这也是我博客的第一篇文章

@@ -8,7 +8,6 @@ categories:
 tags:
 - Python
 - 教程
-thumbnail:
 ---
 
 > 关于如何使用Python发送邮件的一点学习总结

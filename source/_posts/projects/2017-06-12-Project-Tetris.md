@@ -7,7 +7,6 @@ categories:
 - 垃圾代码
 tags:
 - C
-thumbnail:
 ---
 
 这个项目是我大一下学期期末时写的“程序设计基础实训”的大作业，一个用C实现的Windows命令行程序。

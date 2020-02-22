@@ -7,7 +7,8 @@ categories:
 - 垃圾代码
 tags:
 - Web前端
-thumbnail: https://oss.keybrl.com/images/project_img/Coin/preview.png
+banner_img: https://oss.keybrl.com/images/2017-11-19-project-coin/preview.png
+index_img: https://oss.keybrl.com/images/2017-11-19-project-coin/preview.png
 ---
 
 > 科学决策，关于random()的极致利用
@@ -28,7 +29,7 @@ thumbnail: https://oss.keybrl.com/images/project_img/Coin/preview.png
 
 他目前主要有3个功能
 
-![手机端效果预览](https://oss.keybrl.com/images/project_img/Coin/preview.png)
+![手机端效果预览](https://oss.keybrl.com/images/2017-11-19-project-coin/preview.png)
 
 #### Coin
 
@@ -67,7 +68,3 @@ thumbnail: https://oss.keybrl.com/images/project_img/Coin/preview.png
 - ......
 
 如有更好的想法，欢迎联系项目作者邮箱 [Keyboard L](mailto:keyboard-l@outlook.com)
-
-## 关于打赏
-
-虽然概率之神乐于为你指明方向且不需要酬劳，但是该项目的作者非常贫穷。如果你觉得该项目非常棒，而且你刚好有闲钱，你肯定很乐意打赏项目作者的。如果的确如此，你可以通过 [打赏页面](/donate/) 提供的方法向我打赏

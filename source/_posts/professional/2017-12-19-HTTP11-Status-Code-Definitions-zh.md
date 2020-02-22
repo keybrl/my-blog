@@ -8,7 +8,6 @@ categories:
 tags:
 - HTTP
 - 翻译
-thumbnail:
 ---
 
 > 对 Hypertext Transfer Protocol -- HTTP/1.1 中关于状态码定义的翻译
