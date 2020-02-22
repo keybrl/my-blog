@@ -8,7 +8,8 @@ categories:
 tags:
 - 找工作
 - 思考人生
-thumbnail: https://oss.keybrl.com/images/offer-from-tencent/card.jpg
+banner_img: https://oss.keybrl.com/images/2019-10-12-offer-from-tencent/banner.jpg
+index_img: https://oss.keybrl.com/images/2019-10-12-offer-from-tencent/banner.jpg
 ---
 
 从 2019 年 7 月 2 日入职，到 2019 年 10 月 12 日，今天是我在腾讯实习的第 103 天。
@@ -19,7 +20,7 @@ thumbnail: https://oss.keybrl.com/images/offer-from-tencent/card.jpg
 
 但是不太一样的是，中午午休结束之后，正在我盯着屏幕发呆恢复精神准备工作的时候，我旁边的个人电脑的个人邮箱收到了一封邮件。一闪而过的通知概要信息很多，时间很短，我一时没反应过来，但是我仿佛看见了“腾讯”两个字。这非常不寻常，因为和工作有关的邮件肯定都会发到企业邮箱，但是我马上清醒了过来，在打开邮箱应用的几秒钟里，我的脑子处理完了刚刚看见的通知概要里的内容，我知道发生了什么，我收到了腾讯的 Offer ！
 
-![offer](https://oss.keybrl.com/images/offer-from-tencent/offer.png)
+![offer](https://oss.keybrl.com/images/2019-10-12-offer-from-tencent/offer.png)
 
 ---
 
@@ -75,4 +76,4 @@ thumbnail: https://oss.keybrl.com/images/offer-from-tencent/card.jpg
 
 我知道我总有一天会失去这张工卡，在我离职回校那天。但是我现在知道我肯定会有一张新的！
 
-![card](https://oss.keybrl.com/images/offer-from-tencent/card.jpg)
+![card](https://oss.keybrl.com/images/2019-10-12-offer-from-tencent/card.jpg)

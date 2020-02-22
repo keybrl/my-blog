@@ -8,7 +8,8 @@ categories:
 tags:
 - DIY
 - 键盘
-thumbnail: https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-2.jpg
+banner_img: https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/banner.jpg
+index_img: https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/banner.jpg
 ---
 
 几天前的一个深夜，辗转反侧，我最终决定下单了一个客制化键盘套件和若干键轴，开始了我与客制化键盘的故事。
@@ -45,11 +46,11 @@ thumbnail: https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-2.jpg
 
 第一次入坑也不希望买太贵的，就买了一个量产的、口碑看起来还可以的套件， GK61S 。 300 多一些的价格。包含一个塑料外壳（日后我肯定会换一个）、 PCB 板、定位板（可能要换），不带键帽。
 
-![gk61s](https://oss.keybrl.com/images/my-first-custom-keyboard/gk61s.jpg)
+![gk61s](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/gk61s.jpg)
 
 PCB 板上的键位是热插拔的，虽然没有焊接的稳固，但是比较省事，而且可以比较容易换轴体，而且轴体润滑、卫星轴润滑都需要把轴拆下来，焊接的话工作量就太大了。
 
-![hot-swap](https://oss.keybrl.com/images/my-first-custom-keyboard/hot-swap.jpg)
+![hot-swap](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/hot-swap.jpg)
 
 连接方式是蓝牙、有线双模，带内置锂电池，线是 Type-C 的。我以后可能会改成外置锂电池的，因为外置电池坐飞机方便很多，可以把键盘扔去托运，电池单独拿出来过安检。
 
@@ -59,7 +60,7 @@ PCB 板上的键位是热插拔的，虽然没有焊接的稳固，但是比较�
 
 默认的方向键操作是用 `/` 、 `Menu` 、 `RAlt` 、 `RCtrl` 四个键分别代表上下左右
 
-![wasd_old](https://oss.keybrl.com/images/my-first-custom-keyboard/wasd_old.jpg)
+![wasd_old](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/wasd_old.jpg)
 
 但是我原本习惯的 `LAlt` 作 Fn ，然后 `Fn + W/A/S/D` 作为上左下右的方式难道就不能实现了吗？其实还是可以的。因为 Fn 的作用其实就是一个临时层，平时是一个普通层，按住 Fn 时临时切换到当前层的 Fn 层，松开 Fn 时又恢复普通层，相当于 1 层有 2 层的按键数量，所以核心其实就是一个按键临时切换别的层。在 GK61S 上，我不能修改切换到 Fn 层的键，但是我可以定义某个键能够临时切换到别的普通层。比如我在第一层设置 `LAlt` 的功能是按住临时切换到第二层，然后第二层就相当于一个全新的 Fn 层，只不过是用 Alt 切换的，而不是 Fn 。然后我在第二层设置 `W/A/S/D` 为上左下右就行了。等于我用两个普通层的按键数量来作为一层使用，同样的方法，其实可以把全部三层都加进一层里，只需要在第一层设置其它几层的“按住 临时切换 快捷按键”就行了，这样来看的话，虽然 GK61S 限制了 Fn 的自由，但是在别的方面补偿了缺失的灵活性。
 
@@ -69,13 +70,13 @@ PCB 板上的键位是热插拔的，虽然没有焊接的稳固，但是比较�
 
 那我会用什么轴呢，红轴？银轴？都不是。我要混合使用不同的轴。
 
-![switch](https://oss.keybrl.com/images/my-first-custom-keyboard/switch.jpg)
+![switch](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/switch.jpg)
 
 买的是 Cherry RGB 红/银/灰 轴。我基本上只用过 Cherry 轴，但是传说凯华轴等国产轴手感也很好，甚至有些比 Cherry 好，本来想试试的，但是还是先算了，毕竟这三个轴我都用过，比较了解一些。我买轴的时候才知道，原来 RGB 轴是没有灯的，它只是透明而已，灯在 PCB 板上，所以 RGB 和非 RGB 的同种轴价格是一样的。那看来不管有要不要灯都可以无脑买 RGB 轴啊，透明轴体比黑不溜秋的好看多了。
 
 银轴很灵敏，而且手感比红轴重，所以打字感觉非常好，但是由于灵敏，所以也容易误触，所以我只用在了 26 个字母上。符号和数字也是经常需要输入的，但是我对它们的位置不是很熟，所以有时候没按准蹭到旁边误触就不好了，所以用红轴。最后， Ctrl 、 Enter 、 Shift 这种控制按键，很少按，而且一般要按的时候都喜欢用更大力气，特别是空格和回车，这些地方用黑轴，猛按的时候更带感。
 
-![switch-on-board](https://oss.keybrl.com/images/my-first-custom-keyboard/switch-on-board.jpg)
+![switch-on-board](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/switch-on-board.jpg)
 
 装上之后发现，由于有定位板，轴上有卡扣会卡住定位板，所以也不会不稳。之前看别人某些角度按会晃是因为没有用定位板，直接插在 PCB 板上。
 
@@ -83,7 +84,7 @@ PCB 板上的键位是热插拔的，虽然没有焊接的稳固，但是比较�
 
 然后由于还没有买键帽，所以暂时用着 Poker 的键帽，装起来试了一下
 
-![temp-install](https://oss.keybrl.com/images/my-first-custom-keyboard/temp-install.jpg)
+![temp-install](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/temp-install.jpg)
 
 感觉一开始很不习惯这个混搭轴体的手感，就是有时候感觉打得好好的，突然因为要退格或者按数字 1 选词时，手感突变，就好像突然按到一个坏轴的感觉一样。甚至开始后悔混搭，想着要不要多买几个银轴或者红轴把他们全部换成银轴或者红轴（热插拔的优势这时候就体现了）。但是用了几天之后就习惯了，甚至感觉手感很不错，打字的时候在字母上蜻蜓点水，不需要按到底，轻轻摸一下就触发了。选词时按数字键很轻，一下按到底，仿佛一个仪式，庄重地确认了一个词的上屏。换行、退格、空格更沉重，反馈感更强，不自觉会大力按。基本达到了我最开始这样组合的设想。
 
@@ -106,18 +107,18 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 我目前来考虑的话，我应该会要买透光键帽， ABS 肯定会更好看，但是打油我还是很怕的。所以买了一套没那么廉价，但是也不太贵的 PBT 透光二色成型键帽。因为透光的部分在没有光时是深色的，我之前就是吃了黑色键帽不开背光看不清字的亏，所以这次挑了一个浅色的配色（烂大街的所谓“王自如配色”）。
 
-![keycap-1](https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-1.jpg)  
-![keycap-2](https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-2.jpg)
+![keycap-1](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/keycap-1.jpg)  
+![keycap-2](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/keycap-2.jpg)
 
 蓝色那枚 LAlt 键是我之前另外买的，以前在 Poker 上也放了一颗，现在这个跟红色的 ESC 键，红蓝看起来还蛮配
 
 配置了一下灯的颜色
 
-![keycap-3](https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-3.jpg)
+![keycap-3](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/keycap-3.jpg)
 
 按住 LAlt 时，灯光也能提醒我快捷键在哪
 
-![keycap-4](https://oss.keybrl.com/images/my-first-custom-keyboard/keycap-4.jpg)
+![keycap-4](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/keycap-4.jpg)
 
 开灯的两张图片看起来字非常模糊，其实只是因为我把灯关了，手机拍的为了遮盖噪点用算法涂抹掉了，其实实际上字符边缘还是比较锐利的。
 
@@ -137,25 +138,25 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 润滑轴体首先需要把轴全部拆出来，要用到拔轴器。开始的时候我还不知道拔轴的方法，以为是横着拔的，但是贼难拔了，大力出奇迹拔了两颗，感觉不太对，于是去 B 站学习了一下，才发现正确的拔轴方法是下面这样。
 
-![plug-out-switch](https://oss.keybrl.com/images/my-first-custom-keyboard/plug-out-switch.jpg)
+![plug-out-switch](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/plug-out-switch.jpg)
 
 要竖着拔，因为轴体上有两个卡扣在上下两边，用拔轴器夹住轴体的同时会将两个卡扣收起来，然后轻松一拔就能拔出来。
 
 轴体全部拔出来之后要将它们打开润滑，要用到开轴器。一般开轴器都有 6 个竖起来的塑料片（也可能是金属的），其实只需要用到 4 个或者 2 个，一条轴上一侧 2 个小塑料片的是用来开 Cherry 类轴的，另一条轴上一侧 1 个大塑料片是用来开凯华轴的。其实就是用突起的塑料片对着轴体上固定上下盖的卡扣，用力一按，让塑料片插卡扣里，卡扣会被撑开，轴就会打开。
 
-![open-switch](https://oss.keybrl.com/images/my-first-custom-keyboard/open-switch.jpg)
+![open-switch](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/open-switch.jpg)
 
-![opened-switch](https://oss.keybrl.com/images/my-first-custom-keyboard/opened-switch.jpg)
+![opened-switch](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/opened-switch.jpg)
 
 打开的轴体可以分成 4 部分，上壳、下壳、中间红色的轴心（如果是上图那样的红轴的话）、弹簧。可以自己拿着轴心在里面运动一下看看轴体里面哪里会有摩擦，哪里有摩擦哪里就需要润滑。我看的话，主要就是轴心与下壳两侧的的滑轨之间、轴心与下壳底部中间的固定孔内侧之间、下壳底部中心固定柱与弹簧之间，弹簧与轴心底部固定柱之间。摩擦的两边只要润滑一侧就好了，所以为了方便，我就挑了下壳两侧滑轨、下壳底部中心固定柱内外侧、弹簧内外侧来润滑，轴心就不管了。
 
 润滑用到的润滑油，广受好评的杜邦 GPL105 。 GPL105 是一种几乎液态的润滑油，还有一种常用的 GPL205 是半固态的润滑脂，也有大佬推荐将 GPL105 和 GPL205 混合成一种所谓“半流体”。我也不知道哪种好，就先试试单用 GPL105 ，液态的也比较好涂。
 
-![gpl105](https://oss.keybrl.com/images/my-first-custom-keyboard/gpl105.jpg)
+![gpl105](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/gpl105.jpg)
 
 润滑方法就是拿小刷子蘸上润滑油刷在需要润滑的地方。
 
-![brush](https://oss.keybrl.com/images/my-first-custom-keyboard/brush.jpg)
+![brush](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/brush.jpg)
 
 润滑好后装起来就行了。
 
@@ -170,9 +171,9 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 然后后面的过程就是重复重复重复了。因为同一种轴都是一样的，所以我把他们全部拆开，每一道工序都全部一起做。
 
-![opened-switchs-1](https://oss.keybrl.com/images/my-first-custom-keyboard/opened-switchs-1.jpg)
+![opened-switchs-1](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/opened-switchs-1.jpg)
 
-![opened-switchs-2](https://oss.keybrl.com/images/my-first-custom-keyboard/opened-switchs-2.jpg)
+![opened-switchs-2](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/opened-switchs-2.jpg)
 
 然后再一起装起来
 
@@ -182,17 +183,17 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 轴体润滑之后手感的确好很多，但是当按到退格等大键时，就会突然感受到软绵绵的触底和拖泥带水的手感，伴随着奇怪的响动，很恶心。所以我原本想换成平衡杆的，毕竟平衡杆组件比较少，结构简单，不需要怎么调教，只要润滑好，手感就非常好， Filco 的键盘都是用的平衡杆。
 
-![balance-bar](https://oss.keybrl.com/images/my-first-custom-keyboard/balance-bar.jpg)
+![balance-bar](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/balance-bar.jpg)
 
 但是我买来才发现，平衡杆和钢板卫星轴所用的钢板（定位板）是不一样的，平衡杆不能装在用卫星轴的定位板上。所以，平衡杆计划就只能暂时搁置了，等我哪天决定换定位板再说。但是我也不能放任卫星轴不管，毕竟这个手感实在是太烂了。传说卫星轴剪脚之后手感会好很多，于是打算试试...
 
 卫星轴主要分两种，一种是用螺丝固定在 PCB 上的，一种是用卡扣固定在钢板上的。我这个套件用的是钢板卫星轴
 
-![satellite-1](https://oss.keybrl.com/images/my-first-custom-keyboard/satellite-1.jpg)
+![satellite-1](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/satellite-1.jpg)
 
 拆起来比较容易，只要先将中间的轴先拔出来，然后把两个假轴上的卡扣按进去，然后就能掰出来
 
-![satellite-2](https://oss.keybrl.com/images/my-first-custom-keyboard/satellite-2.jpg)
+![satellite-2](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/satellite-2.jpg)
 
 然后...我忘了拍照了，总之把假轴里面的假轴心底部的支撑脚剪掉一部分，就可以了，那个脚是用来缓冲与底部 PCB 的撞击用的。然后抹上润滑脂重新装起来就好。出厂的润滑脂涂得太暴力了，上面照片也能看到，都漏出来了，所以我还顺便把他们全部洗干净重新润滑了一遍。
 
@@ -204,11 +205,11 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 这把键盘差不多尘埃落定了，外壳、定位板、平衡杆、键帽可能要等到不知道什么时候我再去弄了。最后配个清新明丽的掌托
 
-![palm-rest-1](https://oss.keybrl.com/images/my-first-custom-keyboard/palm-rest-1.jpg)
+![palm-rest-1](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/palm-rest-1.jpg)
 
-![palm-rest-2](https://oss.keybrl.com/images/my-first-custom-keyboard/palm-rest-2.jpg)
+![palm-rest-2](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/palm-rest-2.jpg)
 
-![palm-rest-3](https://oss.keybrl.com/images/my-first-custom-keyboard/palm-rest-3.jpg)
+![palm-rest-3](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/palm-rest-3.jpg)
 
 以前我有一个 87 键长度的黑胡桃木的掌托，为 Filco 那把键盘配的。后来换了 61 键的 Poker 之后一直没有换一个短一点的掌托，总觉得虽然原来那个掌托长出一截有点丑，但是又不是不能用。
 
@@ -216,4 +217,4 @@ PBT 材质嘛，其实主要优点就是耐磨。我一把 Poker 用的时间比
 
 这次换成了绿檀的，绿檀手感很沉，相当有质感。而且它刚切开时是黄色的，见光氧化后会慢慢变绿，变绿之后看起来超文艺小清新。上面几张图是我写这篇文章时拍的，下面这张是几天前刚买来时拍的，明显绿绿的好看多了。
 
-![palm-rest-4](https://oss.keybrl.com/images/my-first-custom-keyboard/palm-rest-4.jpg)
+![palm-rest-4](https://oss.keybrl.com/images/2019-10-18-my-first-custom-keyboard/palm-rest-4.jpg)

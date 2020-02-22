@@ -9,12 +9,13 @@ tags:
 - 咖啡
 - 燕麦片
 - 美食
-thumbnail: https://oss.keybrl.com/images/oatmeal-with-coffee/artifact1.jpg
+banner_img: https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/banner.jpg
+index_img: https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/banner.jpg
 ---
 
 **燕麦片** 大家肯定都吃过，下面就是超市里常见的一种“即食燕麦片”
 
-![oatmeal](https://oss.keybrl.com/images/oatmeal-with-coffee/oatmeal.jpg)
+![oatmeal](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/oatmeal.jpg)
 
 **咖啡** 大家应该都喝过，下面就是虽然超市买不到但是很常见的产自某东南亚岛国（东南亚除了印度尼西亚还能有什么岛国）的烘培好的咖啡豆。本来配“即食燕麦片”就应该用“速溶咖啡”，门当户对，可惜我没有速溶咖啡..
 
@@ -30,17 +31,17 @@ thumbnail: https://oss.keybrl.com/images/oatmeal-with-coffee/artifact1.jpg
 
 首先，按照燕麦片的食用指导， 35g 燕麦片加入 210ml 热水，首先称量出 35g 燕麦片
 
-![oatmeal-in-cup](https://oss.keybrl.com/images/oatmeal-with-coffee/oatmeal-in-cup.jpg)
+![oatmeal-in-cup](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/oatmeal-in-cup.jpg)
 
 然后如果按照 1:16 的粉水比， 15g 咖啡粉能加 240ml 水，因为咖啡粉会吸收一部分水，最后大概就能有 210ml 左右的咖啡落入麦片中（其实主要是因为 15g 豆 + 240ml 水是我日常常用的量，时间比较好控制）。称量出 15g 的咖啡豆
 
-![coffee-in-grinder](https://oss.keybrl.com/images/oatmeal-with-coffee/coffee-in-grinder.jpg)
+![coffee-in-grinder](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/coffee-in-grinder.jpg)
 
 （多了一点是因为我发现这是最后一点咖啡了，留下来 0.5g 我也没啥用）
 
 研磨好，准备好滴滤漏斗和滤纸
 
-![ready](https://oss.keybrl.com/images/oatmeal-with-coffee/ready.jpg)
+![ready](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/ready.jpg)
 
 等水温合适之后开始冲煮咖啡
 
@@ -51,15 +52,15 @@ thumbnail: https://oss.keybrl.com/images/oatmeal-with-coffee/artifact1.jpg
 
 咋一看还是挺漂亮的
 
-![artifact1](https://oss.keybrl.com/images/oatmeal-with-coffee/artifact1.jpg)
+![artifact1](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/artifact1.jpg)
 
-![artifact2](https://oss.keybrl.com/images/oatmeal-with-coffee/artifact2.jpg)
+![artifact2](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/artifact2.jpg)
 
 搅拌一下之后，颜值好像稍有下降
 
-![artifact3](https://oss.keybrl.com/images/oatmeal-with-coffee/artifact3.jpg)
+![artifact3](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/artifact3.jpg)
 
-![artifact4](https://oss.keybrl.com/images/oatmeal-with-coffee/artifact4.jpg)
+![artifact4](https://oss.keybrl.com/images/2019-09-15-oatmeal-with-coffee/artifact4.jpg)
 
 ---
 

@@ -7,7 +7,8 @@ categories:
 - 无聊的日常
 tags:
 - 键盘
-thumbnail: https://oss.keybrl.com/images/my-keyboards/poker_1.jpg
+banner_img: https://oss.keybrl.com/images/2019-10-13-my-keyboards/banner.jpg
+index_img: https://oss.keybrl.com/images/2019-10-13-my-keyboards/banner.jpg
 ---
 
 虽然我英文 id 是 Keyboard （或者 keyboardluo, keybrl, keyboard-l, keybrluo， ...），但这并不是因为我和 Keyboard 的故事，具体原因可以看看这篇文章 [关于 “Keyboard” 的故事](/boring-2019-07-18-keyboard/) 。
@@ -35,11 +36,11 @@ thumbnail: https://oss.keybrl.com/images/my-keyboards/poker_1.jpg
 
 4 个月后，我下单了我人生中的第二把键盘， Filco 87 键的忍者二代，黑色侧刻，有线蓝牙双模， Cherry 青轴。
 
-![filco_1](https://oss.keybrl.com/images/my-keyboards/filco_1.jpg)
+![filco-1](https://oss.keybrl.com/images/2019-10-13-my-keyboards/filco-1.jpg)
 
 这把键盘厉害了。蓝牙体验一流。 87 键的精致布局加上黑色侧刻的 ABS 键帽，是我目前所有键盘里最喜欢的外观。青轴加上定位钢板的清脆手感也相当不错。当然价格也有一点点贵， 1000 多一些，不过比起下一把还是小巫见大巫。
 
-![filco_2](https://oss.keybrl.com/images/my-keyboards/filco_2.jpg)
+![filco-2](https://oss.keybrl.com/images/2019-10-13-my-keyboards/filco-2.jpg)
 
 这把键盘至少陪伴了我整整一年，我不知道拿它写了多少代码，我几乎没有什么可以抱怨的。 ABS 键帽不耐磨、用多了会打油，是一个小缺点，但是它侧刻，所以没啥影响。青轴有点吵，键盘有点重，这其实都算是特性，虽然有时不方便，但这是手感好的一部分，也不算绝对的缺点。
 
@@ -49,7 +50,7 @@ thumbnail: https://oss.keybrl.com/images/my-keyboards/poker_1.jpg
 
 在印着樱红色 "Cherry" 字样的银色铝合金军火盒中的，竟是是一把闪耀着 RGB 光芒的键盘。
 
-![mx8](https://oss.keybrl.com/images/my-keyboards/mx8.jpg)  
+![mx8](https://oss.keybrl.com/images/2019-10-13-my-keyboards/mx8.jpg)  
 （我竟然找不到它打开 RGB 时的照片）
 
 这是我第一把 RGB 键盘，也是我第一把红轴键盘。显然后者对我的影响更大，红轴真的舒服，我后面基本就放弃了非线性轴，都挑选红轴或者类似的手感较轻的线性轴。
@@ -64,7 +65,7 @@ Poker ，一个注定不平凡的名字。
 
 我不知道我是在哪里第一次听说的 Poker ，也许是因为陈大佬有一把。在我仔细阅读完它的产品介绍后，我就控制不住下单了一把。
 
-![poker2](https://oss.keybrl.com/images/my-keyboards/poker_2.jpg)  
+![poker2-1](https://oss.keybrl.com/images/2019-10-13-my-keyboards/poker2-1.jpg)  
 
 这是我第一把 60% 布局的键盘，受此影响，我后面买的键盘全部都是 60% 布局的。它有 61 个按键，包含了字母、数字、符号和一些控制按键。没有用过 60% 布局的人和一些只用过蹩脚的 60% 布局（各种带独立方向键的 60% 布局）的人，可能都不能理解它的优雅。有些人用键盘的最低要求是要有独立方向键，但是 60% 布局塞下方向键一般都是很丑的而且不好用的，还不如 87 键。
 
@@ -72,11 +73,11 @@ Poker ，一个注定不平凡的名字。
 
 从我买了 Poker ，它就一直是我的主力键盘。我用它写了数万行的代码，我去哪里如果要带键盘，一定会带上它。尽管在它的优点的映衬下，它有很多缺点，比如没有蓝牙，没有特殊轴体（只有 Cherry 的红黑青茶轴）。
 
-![poker1](https://oss.keybrl.com/images/my-keyboards/poker_1.jpg) 
+![poker2-2](https://oss.keybrl.com/images/2019-10-13-my-keyboards/poker2-2.jpg) 
 
 后来我还给它加了灯，换了一套键帽，具体可以看看 [IKBC Poker2 加灯历程](/boring-2018-01-20-lighted-poker2/)
 
-![poker3](https://oss.keybrl.com/images/my-keyboards/poker_3.jpg)  
+![poker2-3](https://oss.keybrl.com/images/2019-10-13-my-keyboards/poker2-3.jpg)  
 
 后来觉得不好看又把键帽换回来。
 
@@ -84,13 +85,13 @@ Poker ，一个注定不平凡的名字。
 
 因为 Poker 的完美所映衬出来的两个缺点，我一直在寻找有蓝牙的 60% 布局的键盘，所以我在大二的那个 618 买了这把键盘。
 
-![akko_1](https://oss.keybrl.com/images/my-keyboards/akko_1.jpg) 
+![akko-1](https://oss.keybrl.com/images/2019-10-13-my-keyboards/akko-1.jpg) 
 
 银轴手感非常不错，他有着 Cherry 所有键轴中最短的触发行程，而且压力仅仅比红轴高一点点，只要轻轻一碰就能够触发，所以打字可以变得更轻快。
 
 PBT 浸染键帽也很漂亮，而且它的键帽类似 ABS 那样比较薄和轻，配合银轴手感不错。
 
-![akko_2](https://oss.keybrl.com/images/my-keyboards/akko_2.jpg) 
+![akko-2](https://oss.keybrl.com/images/2019-10-13-my-keyboards/akko-2.jpg) 
 
 但是这款键盘的蓝牙体验只能说是能用，有线切蓝牙，蓝牙切有线，不同蓝牙设备之间的切换，每次都要折腾挺久，完全没有 Filco 的流畅体验。
 
