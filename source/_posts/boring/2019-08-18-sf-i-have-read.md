@@ -8,7 +8,6 @@ categories:
 tags:
 - 科幻
 - 书评
-thumbnail:
 ---
 
 > 由于这篇博客实在太长，我觉得我不可能在短时间内写完，也不想分成很多分散的文章，所以我打算一边写一边更新到线上，而不是全部写完再发布  
@@ -16,7 +15,9 @@ thumbnail:
 
 我的 [友链列表](/links/) 里面有一个人，她写了不少书评类似物，她本人在日常生活中也不时流露出对文学极高的鉴赏能力，所以我给了她 “被代码耽误的文学家” 这样一个夸张的评价。
 
-[![maozu](https://oss.keybrl.com/images/sf-i-have-seen/maozu.png)](https://blog.maozu.ink/)
+![maozu](https://oss.keybrl.com/images/2019-08-18-sf-i-have-read/maozu.png)
+
+她的博客链接： [Nothing important](https://blog.maozu.ink/)
 
 然后再看我的博客，我博客写的东西还是很杂的，有一些技术方面的，主要都是偏应用的技术，有新手教程，有文档，有自己的DIY项目，有泡咖啡的，有日记类似物，有很业余的摄影相关的，... 但是没有任何跟文学相关的东西。
 
