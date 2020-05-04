@@ -8,8 +8,8 @@ categories:
 tags:
 - 买买买
 - 耳机
-banner_img: https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/banner.jpg
-index_img: https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/banner.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/banner.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/banner.jpg
 ---
 
 “森海塞尔（ Sennheiser ）”这个品牌大家都听过，森海塞尔的 “Momentum” 系列，了解耳机的人应该也都听过，总之很厉害就是了。
@@ -34,25 +34,25 @@ index_img: https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/banne
 
 如果你是在官方渠道购买，你买森海比较贵的耳机，森海都会送你一个可爱的小熊，象征你充值的信仰。
 
-![bear-and-encasement](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/bear-and-encasement.jpg)
+![bear-and-encasement](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/bear-and-encasement.jpg)
 
-![bear-and-earbuds](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/bear-and-earbuds.jpg)
+![bear-and-earbuds](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/bear-and-earbuds.jpg)
 
 耳机装在在一个外表是编织布材质的充电盒里
 
-![earbuds-in-case](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/earbuds-in-case.jpg)
+![earbuds-in-case](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/earbuds-in-case.jpg)
 
 盒子后面有一个按钮，一个电量指示灯，按一下按钮能让指示灯亮起来
 
-![case](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/case.jpg)
+![case](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/case.jpg)
 
 耳机朝外的一侧是印着森海塞尔 Logo 的有着环形纹路的金属触控面板。耳机内侧是几个充电用的金属触点，左右标识和状态指示灯。
 
-![earbuds-and-case](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/earbuds-and-case.jpg)
+![earbuds-and-case](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/earbuds-and-case.jpg)
 
 戴在耳朵上大概就这样（看不到屏幕拍成这样我已经尽力了）
 
-![earbuds-in-ear](https://oss.keybrl.com/images/2019-10-20-momentum-true-wireless/earbuds-in-ear.jpg)
+![earbuds-in-ear](https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-20-momentum-true-wireless/earbuds-in-ear.jpg)
 
 还是相当好看的。
 

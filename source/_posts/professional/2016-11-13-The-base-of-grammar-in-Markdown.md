@@ -525,22 +525,22 @@ Markdown 中的表格类似这样：
 图片对应的是 HTML 中的 `<img>` 。同超链接一样，图片也支持内联式和引用式。实际上图片和超链接的语法差别仅仅是图片以一个 `!` （感叹号）开头：
 
 ```markdown
-![示例图片](https://oss.keybrl.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见")  
+![示例图片](https://blog-assets-1253422097.file.myqcloud.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见")  
 ![图片加载失败时会显示这段文字，这其实也是选填的](https://www.hhh.com/xxx.jpg)  
 ![引用式图片示例][img1]
 
-[img1]: https://oss.keybrl.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见"
+[img1]: https://blog-assets-1253422097.file.myqcloud.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见"
 ```
 
 语法与超链接几乎一样，只不过以 `!` 开头，而且 URL 是指图片 URL 。
 
 以上示例效果如下：
 
-![示例图片](https://oss.keybrl.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见")  
+![示例图片](https://blog-assets-1253422097.file.myqcloud.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见")  
 ![图片加载失败时可能会显示这段文字，这其实也是选填的](/whatever)  
 ![引用式图片示例][img1]
 
-[img1]: https://oss.keybrl.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见"
+[img1]: https://blog-assets-1253422097.file.myqcloud.com/images/2016-11-13-the-base-of-grammar-in-markdown/insect.jpg "图片标题，选填的，鼠标悬浮时可见"
 
 同超链接一样，图片链接也可以是相对地址，只要相对 Markdown 的展示环境的相对地址中图片存在即可，反正它仅仅被简单地填在 `<img>` 标签的 `src` 属性中。
 

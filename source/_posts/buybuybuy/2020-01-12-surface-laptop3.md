@@ -8,8 +8,8 @@ categories:
 tags:
 - 买买买
 - 笔记本电脑
-banner_img: https://oss.keybrl.com/images/2020-01-12-surface-laptop3/banner.jpg
-index_img: https://oss.keybrl.com/images/2020-01-12-surface-laptop3/banner.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/banner.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/banner.jpg
 ---
 
 习惯了 16G 内存之后，一想到我回学校之后就要用只有 8G 内存的笔记本做毕设，我就觉得受不了，所以打算买一台能干重活的轻薄笔记本。最后经过了艰苦的比较，最终选择了 13 寸的 Surface Laptop 3 (i7-1065G7 16GB 512GB) 。
@@ -68,7 +68,7 @@ Surface Pro 和 Surface Book ，就连整天把“革命”、“颠覆”、“
 
 大家印象中很强的苹果， 13 寸的 Macbook Pro 还在用着 2 年前水平的 8 代 U ，内存也还是 2 年前的 LPDDR3 。
 
-为什么我一定要 10 代 U 呢，因为 Intel 的移动端处理器跳票了整整一代，没有 9 代的移动处理器，上一代还是 17 年下半年发布的第 8 代。 18 年虽然更新了几款 8 代移动端处理器，但是提升非常有限，几乎等于没有提升。所以你现在还能看到很多厂商卖着 i5-8250U 的笔记本。其实 Intel 第 9 代桌面处理器也和 8 代差不多，只是堆了更多的核心而已，没有什么本质提升。因为 Intel 的不给力，所以你甚至能看到搭散热不够尺寸来凑的 16 寸 Macbook Pro ，这种奇奇怪怪的产品，因为性能不够靠塞 i9 这种大力出奇迹的方法解决。
+为什么我一定要 10 代 U 呢，因为 Intel 的移动端处理器跳票了整整一代，没有 9 代的移动处理器，上一代还是 17 年下半年发布的第 8 代。 18 年虽然更新了几款 8 代移动端处理器，但是提升非常有限，几乎等于没有提升。所以你现在还能看到很多厂商卖着 i5-8250U 的笔记本。其实 Intel 第 9 代桌面处理器也和 8 代差不多，只是堆了更多的核心而已，没有什么本质提升。因为 Intel 的不给力，所以你甚至能看到散热不够尺寸来凑的 16 寸 Macbook Pro ，这种奇奇怪怪的产品。
 
 不过幸好，移动处理器终于换代了， 10 代是全新的一代，有了进步极大的核显，有从 14nm 到 10nm 的制程升级，还有其它一些常规升级。 10 代和 8 代 U 的性能比较我下面会说。
 
@@ -90,27 +90,27 @@ Surface 嘛，优势就是除了没有丰富的 IO 、没有 Thunderbolt3 ，上
 
 ## Surface Laptop 3
 
-![box](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/box.jpg)
+![box](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/box.jpg)
 
-![a-side](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/a-side.jpg)
+![a-side](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/a-side.jpg)
 
-![side](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/side.jpg)
+![side](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/side.jpg)
 
-![open](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/open.jpg)
+![open](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/open.jpg)
 
 Surface Laptop 3 真的非常好看，而且比起上一代有了非 Alcantara 材质 C 面的选择。 Alcantara 虽然是很好看，但是真的容易脏，我原来 Surface Pro 5 用的就是 Alcantara 键盘。
 
-![keyboard1](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/keyboard1.jpg)
+![keyboard1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/keyboard1.jpg)
 
-![keyboard2](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/keyboard2.jpg)
+![keyboard2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/keyboard2.jpg)
 
 键盘超级舒服，布局合理，不像 ThinkPad 那么拥挤。触控板也很好用。支持人脸识别的 Windows Hello ，掀起屏幕秒开。支持 IEEE802.11ax ，也就是所谓的 WiFi 6 ，不过由于没有 WiFi 6 的 AP ，我还没试过体验如何。
 
-![io](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/io.jpg)
+![io](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/io.jpg)
 
 IO 接口比较少，只有一个 Type-C （支持 USB3.1 gen1 + DP + PD充电），一个 Type-A （ USB3.1 gen1 ），一个 3.5mm 耳机接口，还有一个 Surface Connect （不过除了充电没什么用，我又买不起 1700 的 Surface Dock ），这其实是我能接受的最少接口了。一个 Type-C 可以外接拓展设备、可以外接显示， Type-A 至少要 1 个可以在没带任何转换设备的情况下接 U 盘，还有一个 3.5mm 耳机孔听歌要用。没有 Thunderbolt3 ，虽然对于我来说 Thunderbolt 好像没有什么用，除了可能会用到的外接存储（前提是我能组得起一套读写速率超过 USB3.1 gen1 的存储设备），可能会用到的万兆以太网，还有不太可能会用到的外接显卡，如果有的话肯定是好过没有的。
 
-![screen](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/screen.jpg)
+![screen](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/screen.jpg)
 
 这个屏幕也是超级棒， 1504 * 2256 3:2 的触摸屏，清晰锐利、亮度足够、色彩也很不错。
 
@@ -142,17 +142,17 @@ IO 接口比较少，只有一个 Type-C （支持 USB3.1 gen1 + DP + PD充电�
 
 比完了上一代，比一下同代的。我前面说 XPS 13 和 ThinkPad X1 用的都是 i7-10710U ，有着可怕的 6 核 12 线程。但是同一时期， Surface 用的都是只有 4 核 8 线程的 i7-1065G7 ， XPS 二合一的 13 寸版本用的也是 i7-1065G7 。那这两颗 U 有什么区别呢？
 
-![compare](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/compare.png)
+![compare](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/compare.png)
 
 从账面上分析，他们同是 10 代低压移动处理器，同样标准 15W TDP ，同样的每个核 2M 缓存。看起来好像没有太大差别。基频 i7-1065G7 略高，最大睿频 i7-10710U 更高，但是其实这里的最大睿频是单核最大睿频，全核睿频是 i7-1065G7 更高。然后 i7-10710U 比 i7-1065G7 多了 2 个核 4 个线程，岂不是要多出 50% 的多核性能？
 
 我开始就是这么想的，所以其实我买 Surface 的时候很纠结，但是考虑到 CPU 性能反正在多数时候都有一些过剩，考虑到其他方面的体验，感觉还是 Surface 好一点。但是买回来之后我又比较了一下，我手里没有 i7-10710U ，所以我去看 Geekbench 排行，结果很有趣。如果要比平均分、最高分，应该是 i7-10710U 高的。高分的 i7-10710U 可以跟 i7-1065G7 拉开很大差距。
 
-![i7-10710U](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/i7-10710U.png)
+![i7-10710U](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/i7-10710U.png)
 
 随便截了前几个分数，可以看到高的可以到多核 5300 分，这可比我 4881 高出一大截。但是你如果仔细看，你会发现，高分的好像都不是轻薄本，虽然我不知道微星那个是什么鬼，但是微星应该不做轻薄本吧。
 
-![i7-10710U-xps](https://oss.keybrl.com/images/2020-01-12-surface-laptop3/i7-10710U-xps.png)
+![i7-10710U-xps](https://blog-assets-1253422097.file.myqcloud.com/images/2020-01-12-surface-laptop3/i7-10710U-xps.png)
 
 但是如果我们只看 XPS 的分数，好像也没有那么高，多数都不如我的跑分（不要看 Linux 的， Geekbench 在 Linux 上比 Windows 分数高），而且单核明显低于我的 1315 。这是怎么回事呢？再回去看前面那个 CPU 比较的图，你可能会发现 i7-10710U 是 14nm 制程，而 i7-1065G7 是 10nm ，而且基频和最低 TDP 时频率都比 i7-10710U 高，这说明什么？这说明这可能是制程的优势。 i7-10710U 制程落后一代，核心数还多一半，发热肯定不少，虽然标称 TDP 是 15W ，但是 TDP 是基频状态下测的，而需要性能的时候都是在睿频的时候。 i7-10710U 应该发热和功耗都很高，所以像 XPS 这种轻薄本就压不住，跑不上去，而微星这种散热比较好的机器就能够跑上去。
 

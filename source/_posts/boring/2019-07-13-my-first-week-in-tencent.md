@@ -8,8 +8,8 @@ categories:
 tags:
 - 找工作
 - 思考人生
-banner_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/banner.jpg
-index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/banner.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/banner.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/banner.jpg
 ---
 
 2018年的最后一天，我写下了这篇 [2018年终总结](/boring-2018-12-31-summary/) ，文章的最后我写下了 16 个 19 年的目标。其中第一个就是
@@ -30,7 +30,7 @@ index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/ban
 
 广州到深圳的高铁只需要半个小时，在快要到深圳北站的时候，我看到了这样的景象
 
-![高铁窗边](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/高铁窗边.jpg)
+![高铁窗边](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/高铁窗边.jpg)
 
 一下子让我想起了我大概 6 7 年前来深圳玩，深圳给人的感觉就是发展，不像广州和佛山那样那么老了。说实话，“发展”在这里并不是什么褒义词，只是一种，到处都是建了一半的楼，到处修地铁，到处挖下水道的感觉。现在还是这种感觉，不过好多了，成熟了一点。深圳特区的年龄要说其实也没有比我大多少。
 
@@ -38,13 +38,13 @@ index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/ban
 
 腾讯可以给第一次入职的同学安排最长不超过半个月的周转住宿，这个我还是非常喜欢的，毕竟我入职前几个月有好几天都是想着找房子的事情而失眠，后来想着反正有周转住宿才安心。酒店就是普通的双人间，同住的一般也是同一天入职腾讯的同学。跟我同住的是 PCG（平台与内容事业群） 的实习生。在酒店可以看到腾讯滨海大厦（就是画面中间的双塔式建筑）
 
-![滨海大厦](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/滨海大厦.jpg)
+![滨海大厦](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/滨海大厦.jpg)
 
 不过我不在滨海大厦入职（也不在滨海办公），因为懒，我甚至没有到过滨海楼下近距离看过
 
 当天下午骑车去了一趟深圳腾讯大厦（简称“腾大”），
 
-![腾讯大厦](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/腾讯大厦.jpg)
+![腾讯大厦](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/腾讯大厦.jpg)
 
 画面从左至右分别是万利达、腾大、大族、汉京，万利达左边还有一幢没有入画的是松日大厦，我在腾大入职，而且之后我在万利达办公，而且入职当周周末就部门搬迁，现在在松日办公。
 
@@ -52,21 +52,21 @@ index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/ban
 
 当晚甚至失眠，早上 5 点多就醒了
 
-![滨海大厦](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/滨海大厦5am.jpg)
+![滨海大厦](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/滨海大厦5am.jpg)
 
 甚至还发了一条无聊的空间说说
 
-![无聊的说说](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/无聊的说说.png)
+![无聊的说说](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/无聊的说说.png)
 
 ## 入职第一天
 
 早上早餐也没有吃就沿着前一天走过的路线到了腾大。说实话有点累，路程是 3km 多，半走半骑摩拜吧，因为一路都找不到一辆好骑的摩拜，换了几次车。腾大是腾讯的，不像旁边的万利达、大族和松日是腾讯租了楼层办公。因为腾大里面只有腾讯的人，所以出入大楼都要展示工卡，我当然没有工卡，给保卫看了一下预约码就进去了。在大厅自助机上用预约码打了一张临时通行证（因为上电梯之前也需要门禁）。
 
-![临时通行证](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/临时通行证.jpg)
+![临时通行证](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/临时通行证.jpg)
 
 电梯有9部分成中区和低区（1-14楼）电梯，甚至都排了十几米长的队，都是上班的人。挤电梯到了 7 楼，这算是一个综合的办事的地方吧，有IT窗口（修电脑的）、HR窗口、工卡窗口、社保窗口等。办完入职就有一个公仔、工卡和一张指引（上面有部门秘书、导师的信息，个人oa账号等），联系了部门秘书之后就去办公地点（腾大旁边的万利达），路上导师还打电话过来问我知不知道路。
 
-![工卡和公仔](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/工卡和公仔.jpg)
+![工卡和公仔](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/工卡和公仔.jpg)
 
 见到导师（跟我一样有点瘦，没好意思拍照），见了一下组长，然后搬了自己的电脑和显示器（和其他一些设备）找个位置先安顿下来了。因为周末就要部门搬迁，所以就随便找了个没人的位置，坐得离组里其他人比较远。实习生配的电脑是台式机，正式员工才有笔记本，不过我也不缺笔记本，有一台 16GB 内存的台式我还更欢喜一点。电脑预装的是 Win7 ，我都惊了， 9102 年了还有人用 Win7 。自己给电脑标准化、入域，把自己一台主力笔记本也标准化、入域了，按着指引登录自己的oa账号，配置邮箱之类的。
 
@@ -104,13 +104,13 @@ index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/ban
 
 上班的话有一点点远，步行 1.6km 到地铁 1 号线西乡站，然后坐 9 站到深大站，然后步行 1km 到公司。
 
-![上班路线](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/上班路线.jpg)
+![上班路线](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/上班路线.jpg)
 
 通勤时间 1 小时，还可以接受，主要是居住条件比较舒适，不太喜欢合租。
 
 周五晚上就搬了过来，周六去买了一些生活必需品。冰箱塞满喝的感觉真爽，下层还有雪糕（这才是年轻人的冰箱啊）
 
-![喝的](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/喝的.jpg)
+![喝的](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/喝的.jpg)
 
 周六去公司看了一下，几乎没有人（组里除了我只有两个人，一个在炉石、我在刷b站，还有一个应该的确在干活），我进去还要登记加班，吓得我周日都不敢去了。然后周末就可以安心躺尸了。
 
@@ -126,7 +126,7 @@ index_img: https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/ban
 
 这几天，基本上生活都固定了。早上 7 点起床，洗漱了之后挤地铁去上班（地铁真的挤，车厢塞得满满的）， 8 点多一些到公司，有免费早餐。然后大家基本上 9 点半才陆续到工位开始干活。中午 11 点半吃午饭，晚上 5 点半吃晚饭。晚上呆到 8 点之后工卡刷过任何一个门禁就会多一张夜宵券，能抵 20 元左右，可用于晚餐和夜宵，不限期。所以晚餐等于不用钱，一天只需要支出一餐午饭的钱（大概 16-18 元），一些可乐钱和地铁车票钱，比在学校活着还便宜。甚至还有免费咖啡。
 
-![咖啡机](https://oss.keybrl.com/images/2019-07-13-my-first-week-in-tencent/咖啡机.jpg)
+![咖啡机](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-13-my-first-week-in-tencent/咖啡机.jpg)
 
 晚上 8 点半到 9 点左右走。 10 点半洗好澡、洗漱完差不多就睡了。早睡早起，活得比在学校还健康，在学校我都从来不吃早餐，实习了偶尔还吃点（毕竟不吃血亏）。
 

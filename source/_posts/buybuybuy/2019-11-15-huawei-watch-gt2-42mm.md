@@ -9,8 +9,8 @@ tags:
 - 买买买
 - 手表
 - 智能手表
-banner_img: https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/banner.jpg
-index_img: https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/banner.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/banner.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/banner.jpg
 ---
 
 2019 年 09 月 19 日，华为消费者 BG CEO 余承东在德国慕尼黑召开了华为年度旗舰新品发布会，发布了年度旗舰智能手机 Mate30 系列、旗舰真无线耳机 FreeBuds 3 和旗舰智能手表 HUAWEI Watch GT2 系列。
@@ -47,7 +47,7 @@ index_img: https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/banner
 
 我第一块智能手表是大一的时候买的，华为荣耀手表 S1 ，价格大概是 500 多。就下面这个：
 
-![honor-watch-s1](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/honor-watch-s1.jpg)
+![honor-watch-s1](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/honor-watch-s1.jpg)
 
 买它一方面是因为旧的手表在那时看起来有些儿丑，用起来也不方便，经常要对时，功能也很单一。另一方面是那时是 2016 年，智能手表也算是渐渐成熟（Apple Watch 2 大概也是在那时发布的）于是想买个来玩玩。
 
@@ -61,21 +61,21 @@ index_img: https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/banner
 
 回来看看 HUAWEI Watch GT2 吧。我买的是 42mm 运动款黑色，也就是表盘直径 42mm ，我个人觉得是比 46mm 版好看得多的。
 
-![box](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/box.jpg)
-![opening-box](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/opening-box.jpg)
-![all](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/all.jpg)
+![box](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/box.jpg)
+![opening-box](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/opening-box.jpg)
+![all](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/all.jpg)
 
 表带上孔比较多，比较照顾手细的，我原来的手表从来都是扣到最小还有一点点松的，现在扣到倒数第三个就合适了。
 
-![watch-front](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-front.jpg)
+![watch-front](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-front.jpg)
 
 背后两个绿灯（给心率传感器提供光源）、两个心率传感器、两个充电用的金属触点，共 6 个圈
 
-![watch-back](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-back.jpg)
+![watch-back](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-back.jpg)
 
 侧边两个实体按钮
 
-![watch-side](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-side.jpg)
+![watch-side](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-side.jpg)
 
 ## 优秀的智能手表会优秀在哪
 
@@ -101,7 +101,7 @@ GT2 上，右上的按钮控制亮屏、开机、关机、重启、菜单键和 
 
 我原来的 S1 ，息屏状态下是会一直显示一个简单的时钟的，这样我任何时候看它都能看到时间，不管我有没有点它或者有没有抬腕。这对于它来说没什么，因为它应该是一块单色的 TFT 屏（液晶屏的某一种），驱动液晶要消耗的电力是很少的，而且由于液晶层底下是反光的，所以即使关闭了背光也是能轻易看清的。而 GT2 虽然也可以开息屏显示，但是它用的是 OLED 屏，显示就是让某些像素发出某些颜色的光，不存在“不发光的显示”。所以耗电会明显增加，耗电其实也没什么，主要是即使是最低亮度，也还是明显在发光。
 
-![aod-dark](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/aod-dark.jpg)
+![aod-dark](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/aod-dark.jpg)
 
 这是在几乎无光的环境，左边的 S1 在静息时是不会发光的，右边 GT2 能根据环境光调节亮度，但是即使是这样还是太亮了，夜晚走在路上任何人都能看到我手腕上在发光。
 
@@ -119,4 +119,4 @@ OLED 除了在黑暗中发光很诡异，在强光中，更亮的亮度也未必
 
 要问我开心吗，我当然开心，我有了新的表可以戴，它更好看也更强大。但是我满意了吗？似乎没有，就因为一个看时间的问题，我看起来还不会完全闲置我的 HONOR Watch S1 。要说彻底解决这个问题似乎也不太实际，但是还是希望华为能够在日后通过固件更新优化一下这个问题，比如允许更暗的最低亮度、更智能的抬腕亮屏、 AOD 开启时允许抬腕亮屏之类的。
 
-![watch-with-personal-wallpaper](https://oss.keybrl.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-with-personal-wallpaper.jpg)
+![watch-with-personal-wallpaper](https://blog-assets-1253422097.file.myqcloud.com/images/2019-11-15-huawei-watch-gt2-42mm/watch-with-personal-wallpaper.jpg)

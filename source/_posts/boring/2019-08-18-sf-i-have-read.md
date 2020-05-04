@@ -15,7 +15,7 @@ tags:
 
 我的 [友链列表](/links/) 里面有一个人，她写了不少书评类似物，她本人在日常生活中也不时流露出对文学极高的鉴赏能力，所以我给了她 “被代码耽误的文学家” 这样一个夸张的评价。
 
-![maozu](https://oss.keybrl.com/images/2019-08-18-sf-i-have-read/maozu.png)
+![maozu](https://blog-assets-1253422097.file.myqcloud.com/images/2019-08-18-sf-i-have-read/maozu.png)
 
 她的博客链接： [Nothing important](https://blog.maozu.ink/)
 

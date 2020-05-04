@@ -14,7 +14,7 @@ layout: page
 
 ## 微信
 
-![微信赞赏码](https://oss.keybrl.com/images/wechat_donate.png)
+![微信赞赏码](https://blog-assets-1253422097.file.myqcloud.com/images/wechat_donate.png)
 
 你只需要打开手机微信“扫一扫”功能，然后扫描上方的赞赏码即可打赏（还能留言哦）
 
@@ -22,7 +22,7 @@ layout: page
 
 ## 支付宝
 
-![支付宝收款码](https://oss.keybrl.com/images/alipay.png)
+![支付宝收款码](https://blog-assets-1253422097.file.myqcloud.com/images/alipay.png)
 
 你只需要打开手机支付宝“扫一扫”功能，然后扫描上方的收款码即可打赏
 

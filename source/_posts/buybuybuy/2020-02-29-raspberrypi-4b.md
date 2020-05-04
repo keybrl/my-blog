@@ -8,8 +8,8 @@ categories:
 tags:
 - 买买买
 - 树莓派
-banner_img: https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg
-index_img: https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi.jpg
 ---
 
 曾经我有过两个树莓派： 3B 和 3B+ 。
@@ -32,11 +32,11 @@ index_img: https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg
 
 ## 树莓派 4B
 
-![box](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/box.jpg)
+![box](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/box.jpg)
 
-![box-and-pi](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/box-and-pi.jpg)
+![box-and-pi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/box-and-pi.jpg)
 
-![pi](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg)
+![pi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi.jpg)
 
 我买的这个是 4GB 内存的版本。
 
@@ -44,7 +44,7 @@ index_img: https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg
 
 主要元件、接口如下图：
 
-![pi-with-desc](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi-with-desc.jpg)
+![pi-with-desc](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi-with-desc.jpg)
 
 ## 树莓派 4B 比起 3B+ 有什么升级？
 
@@ -68,7 +68,7 @@ index_img: https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi.jpg
 
    上面提到的以太网的传输速率掉了 100Mbps 是平均速率，但实际上以太网测速和 USB3.0 测速不是完全重叠的，看平均速率不太合适，而且以太网也没有进行双向同时传输。所以我改成双向同时传输又重复了几次，看 Windows 任务管理器的曲线图， USB3.0 传输时，以太网上行速率（相对树莓派上行）掉了 300Mbps ，下行速率没有太大变化：（纵向 1 格是 100Mbps ）
 
-   ![eth-with-usb-test](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/eth-with-usb-test.png)
+   ![eth-with-usb-test](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/eth-with-usb-test.png)
 
    USB3.0 传输速率掉到 114MB/s 这个结果是基本正确的。也就是说以太网掉速的情况比我最开始想的要大很多，而且不像是 CPU 瓶颈，因为从曲线图可以看出以太网下行速率没有跟随上行速率下降。
 
@@ -102,13 +102,13 @@ IO 性能翻倍，基本算是补齐了一块短板，内存也从 1GB 升级到
 
 显示规格升级到 4K 60p 我用不到，但是可以理解，但是我不能理解为什么接口要从单个全尺寸 HDMI 接口换成 2 个 Micro HDMI 接口。
 
-![hdmi](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/hdmi.png)
+![hdmi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/hdmi.png)
 
 全尺寸 HDMI 就是上图的 A ， Micro HDMI 就是上图的 D 。
 
 这意味着你首先需要买一根下图这样的 Micro HDMI （公）转 HDMI （母）的转接线，或者如果不想转多一次可以直接买需要长度的公对公转接线。由于是直连转接线，所以也不太贵，我这根 25 元，但如果要接两个屏幕就需要买两根。
 
-![micro-hdmi-to-hdmi-adapter](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/micro-hdmi-to-hdmi-adapter.jpg)
+![micro-hdmi-to-hdmi-adapter](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/micro-hdmi-to-hdmi-adapter.jpg)
 
 多一根转接线意味着在便利性、体积、连接的可靠性等方面的牺牲。而且 Micro HDMI 比全尺寸 HDMI 插头要脆弱，更容易断裂或弯折，接口连接可靠性也要低很多。
 
@@ -118,19 +118,19 @@ IO 性能翻倍，基本算是补齐了一块短板，内存也从 1GB 升级到
 
 树莓派 4B 的发热量明显是比 3B 和 3B+ 都要多的。 3B+ 还能不贴任何散热片直接放在官方外壳里维持可以接受的温度。但是到了 4B ，像这样放在官方外壳里的话：
 
-![pi-in-offical-shell](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi-in-offical-shell.jpg)
+![pi-in-offical-shell](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi-in-offical-shell.jpg)
 
 即使什么都不做，盖上上盖温度会慢慢上升到 70°C 以上，打开上盖温度也在 60°C 左右，整个 PCB 板都烫得不能碰，更别提在较重负载情况下了。
 
 所以可能在 SoC 、内存、网卡上贴一些散热鳍片是有必要的。不过我觉得官方外壳就是一个闷罐，不通风，即使有散热鳍片效果也不会怎样。所以我买了这样一个带风扇的铝制外壳：
 
-![pi-in-cooling-shell](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi-in-cooling-shell.jpg)
+![pi-in-cooling-shell](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi-in-cooling-shell.jpg)
 
 上下两面黑色的铝制散热鳍片，带双风扇，看起来非常“酷”（ "cool" 双关）。
 
 因为它在 PCB 板背部对应 SoC 和内存中间、 SoC 、内存、 USB 控制器上都有散热柱通过导热硅胶跟元件或 PCB 板接触，所以散热效果非常好。
 
-![pi-not-in-cooling-shell](https://oss.keybrl.com/images/2020-02-29-raspberrypi-4b/pi-not-in-cooling-shell.jpg)
+![pi-not-in-cooling-shell](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-29-raspberrypi-4b/pi-not-in-cooling-shell.jpg)
 
 实测静息时开风扇温度在 40°C 左右，不开风扇温度在 50°C 左右。
 

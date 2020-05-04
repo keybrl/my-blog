@@ -9,8 +9,8 @@ tags:
 - Nginx
 - Linux
 - 教程
-banner_img: https://oss.keybrl.com/images/2018-07-02-nginx-configure/nginx.jpg
-index_img: https://oss.keybrl.com/images/2018-07-02-nginx-configure/nginx.jpg
+banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2018-07-02-nginx-configure/nginx.jpg
+index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2018-07-02-nginx-configure/nginx.jpg
 ---
 
 > 很久没有更新这篇文章了，因为我最初写这个就是为了方便自己找，一般用到什么就写些什么，因为一段时间都很少用到 Nginx 了，所以自然也没有动力把这篇文章继续写下去。但是现在不一样了，我已经将我的博客迁移到腾讯云上，通过 Nginx 部署了。而且为了博客部署方便，我还写了一个接收 GitHub Webhook 请求的 Django 应用，也需要 Nginx 代理。所以这些 Nginx 配置经验都可以补充进来了。
@@ -116,11 +116,11 @@ http {
 
 还有一个值得注意的是 `/etc/nginx/nginx.conf` 中 `http {}` 内有一句 `include /etc/nginx/sites-enabled/*;` 会让你的 Nginx 在成功安装、启动后，被访问时，显示 Nginx 的欢迎页面，像下面这样
 
-![Nginx 的欢迎页面](https://oss.keybrl.com/images/2018-07-02-nginx-configure/nginx_welcome_page.png)
+![Nginx 的欢迎页面](https://blog-assets-1253422097.file.myqcloud.com/images/2018-07-02-nginx-configure/nginx_welcome_page.png)
 
 而且无论你设置什么别的配置，80 端口都会被这个页面占用，所以需要先加个井号注释掉。
 
-![Nginx 配置文件注释掉某行](https://oss.keybrl.com/images/2018-07-02-nginx-configure/nginx_command.png)
+![Nginx 配置文件注释掉某行](https://blog-assets-1253422097.file.myqcloud.com/images/2018-07-02-nginx-configure/nginx_command.png)
 
 然后剩下的配置可以写在 `/etc/nginx/conf.d/` 里
 

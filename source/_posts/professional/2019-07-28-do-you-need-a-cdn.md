@@ -147,7 +147,7 @@ if __name__ == '__main__':
 | 80t     | 28.42 | 56.73 | 28.41  | 30.97 | 56.10 | 59.42  | 55.52  | 28.41  | 43.00 |
 | 96t     | 56.59 | 56.51 | 110.85 | 31.02 | 57.31 | 110.59 | 110.62 | 111.65 | 80.64 |
 
-![CVM N线程加载N文件](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/cvm-N线程加载N文件.png)
+![CVM N线程加载N文件](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/cvm-N线程加载N文件.png)
 
 其中，每一次测试结果一个点绘制在图中，中间折线表示 8 次重复测试的平均值。
 
@@ -194,11 +194,11 @@ if __name__ == '__main__':
 | 496t    |  5.67 |  6.30 | 5.72 | 16.84 |  5.71 |  6.14 | 5.70 | 6.98 | 7.38 |
 | 512t    |  6.58 |  5.81 | 6.29 |  6.68 |  6.83 |  6.36 | 5.91 | 6.53 | 6.37 |
 
-![CDN N线程加载N文件](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/cdn-N线程加载N文件.png)
+![CDN N线程加载N文件](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/cdn-N线程加载N文件.png)
 
 将两组测试平均值画在同一张图中
 
-![N线程加载N文件](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/N线程加载N文件.png)
+![N线程加载N文件](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/N线程加载N文件.png)
 
 会发现加了 CDN 之后性能有明显的提高。而且我猜测，这个最长响应时间与线程数之所以是一次函数，是因为测试所在网络带宽限制。测试过程中，基本上都是跑满 50Mbps 的带宽。所以其实用多线程模拟多用户还是有问题的，但是也没有办法了。
 
@@ -234,7 +234,7 @@ OSS 其实已经很快了，为什么还要加 CDN 呢。一个是为了省钱�
 
 其中第一项，多个线程加载同一组资源的结果如下
 
-![OSS 多线程加载同一组资源](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/OSS-多线程加载同一组资源.png)
+![OSS 多线程加载同一组资源](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/OSS-多线程加载同一组资源.png)
 
 纵轴是加载的总时长，单位是秒，横轴是线程数目。每个结果一个点绘制在图上，中间折线是 8 次测试结果的平均值。
 
@@ -242,7 +242,7 @@ OSS 其实已经很快了，为什么还要加 CDN 呢。一个是为了省钱�
 
 第二项，多个线程各自加载一组资源的结果如下
 
-![OSS 多线程各自加载一组资源](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/OSS-多线程各自加载一组资源.png)
+![OSS 多线程各自加载一组资源](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/OSS-多线程各自加载一组资源.png)
 
 同样，纵轴是加载的总时长，单位是秒，横轴是线程数目。每个结果一个点绘制在图上，中间折线是 8 次测试结果的平均值。
 
@@ -256,17 +256,17 @@ OSS 其实已经很快了，为什么还要加 CDN 呢。一个是为了省钱�
 
 两次测试的结果如下
 
-![CDN 多线程加载同一组资源](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/CDN-多线程加载同一组资源.png)
+![CDN 多线程加载同一组资源](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/CDN-多线程加载同一组资源.png)
 
-![CDN 多线程各自加载一组资源](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/CDN-多线程各自加载一组资源.png)
+![CDN 多线程各自加载一组资源](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/CDN-多线程各自加载一组资源.png)
 
 看起来好像和基准测试结果差不多。
 
 将两组图表中的平均值放在一张图中比较一下
 
-![多线程加载同一组资源 比较](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/both-多线程加载同一组资源.png)
+![多线程加载同一组资源 比较](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/both-多线程加载同一组资源.png)
 
-![多线程各自加载一组资源 比较](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/both-多线程各自加载一组资源.png)
+![多线程各自加载一组资源 比较](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/both-多线程各自加载一组资源.png)
 
 实际上就是差不多。而且我尝试把线程加到 256 个，效果还是差不多。或许在特别大量用户访问时， CDN 优势会更明显，但是我的博客肯定不可能会出现超过我测试限度的负载。在这种情况下，除了省钱，好像 CDN 没有任何优势，加载未缓存的资源明显变慢，加载缓存的资源速度没有显著加快。
 
@@ -276,19 +276,19 @@ OSS 其实已经很快了，为什么还要加 CDN 呢。一个是为了省钱�
 
 在我查询时，阿里云对于 OSS 产品的定价明细如下
 
-![oss定价](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/oss-price.png)
+![oss定价](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/oss-price.png)
 
 存储和上传的流量是固定要给的了，我们就比较直接从 OSS 下载和通过 CDN 下载的流量费和请求费用相差多少。如果按照一张图片 512KB 计算， 1 GB 的图片有 2048 张。也就是要消耗外网流出流量 1GB 外加 2048 次请求，也就是 0.5 * 1 + 0.01 * 0.2048 = 0.52048 元。
 
 CDN 的费用，包含基础服务和增值服务。基础服务可以按两种方式计费 “按峰值带宽计费” 和 “按流量计费” 两种，为了方便比较，我们就按照默认的计费方式 “按流量计费” 来说明。按流量计费的定价如下
 
-![cdn基础服务定价](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/cdn-base-price.png)
+![cdn基础服务定价](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/cdn-base-price.png)
 
 虽然我开通了全球加速，但是肯定没有什么外国人看我的中文博客，所以我们全部按照中国大陆的流量来算。我从来没有试过一个月超过 10TB 流量，所以就按最低的 0GB - 10TB 档来计算。 1GB 流量费是 0.24 元。
 
 由于我还开启了 HTTPS ，这作为增值服务需要另外计费
 
-![cdn增值服务定价](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/cdn-extra-price.png)
+![cdn增值服务定价](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/cdn-extra-price.png)
 
 全部都是静态 HTTPS 请求， 0.05 * 0.2048 = 0.01024 ，总共 0.25024 元。回源的费用我就不计算了，忽略不计。也就是说，使用 CDN 比只使用 OSS 要节省差不多一半的流量费，虽然只有几毛钱，但是看起来也足够诱人。调大缓存时间可以减少缓存失效的情况，同时，如果 CDN 和 OSS 都是阿里云的，那么可以在 OSS 中开启 “CDN 缓存自动刷新” 功能来避免缓存不一致的问题。这样的话， CDN 就还是一个可以考虑的选择。
 
@@ -312,9 +312,9 @@ GitHub Pages 虽然看起来很慢，但其实它也是有 CDN 的，只不过�
 
 因为 GitHub Pages 也有 CDN ，所以在面对大量访问时，表现跟我现在要测试的 CDN 是差不多的，只是平均比较慢而已。为了节省时间，我们就进行加载单个文件的测试，为了比较有代表性，我选取了一个 52KB 的 HTML 文件和一个 1386KB 的图片分别测试，测试重复 64 次。结果如下
 
-![加载52KB的HTML文件](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/加载52KB的HTML文件.png)
+![加载52KB的HTML文件](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/加载52KB的HTML文件.png)
 
-![加载1386KB的图片文件](https://oss.keybrl.com/images/2019-07-28-do-you-need-a-cdn/加载1386KB的图片文件.png)
+![加载1386KB的图片文件](https://blog-assets-1253422097.file.myqcloud.com/images/2019-07-28-do-you-need-a-cdn/加载1386KB的图片文件.png)
 
 因为前面两节测试所在网络环境都非常不错，访问 GitHub Pages 也非常快，不符合中国大陆一般的情况，所以这一部分使用的是我手机热点，测试了一下，带宽大概是 60Mbps 。
 
