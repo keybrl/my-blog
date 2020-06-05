@@ -1,3 +1,15 @@
 [submodule "themes/fluid"]
 	path = themes/fluid
 	url = git@github.com:keybrl/hexo-theme-fluid.git
+[submodule "archive/my-blog-2018plus"]
+	path = archive/my-blog-2018plus
+	url = https://github.com/keybrl/my-blog-2018plus.git
+[submodule "archive/my-blog-2018"]
+	path = archive/my-blog-2018
+	url = https://github.com/keybrl/my-blog-2018.git
+[submodule "archive/my-blog-2017"]
+	path = archive/my-blog-2017
+	url = https://github.com/keybrl/my-blog-2017.git
+[submodule "archive/my-blog-2016"]
+	path = archive/my-blog-2016
+	url = https://github.com/keybrl/my-blog-2016.git
