@@ -6,8 +6,8 @@ layout: post
 categories:
 - 无聊的日常
 tags:
-- DIY
 - 键盘
+- 客制化键盘
 banner_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-18-my-first-custom-keyboard/banner.jpg
 index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2019-10-18-my-first-custom-keyboard/banner.jpg
 ---
