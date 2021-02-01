@@ -1,6 +1,6 @@
 [submodule "themes/fluid"]
 	path = themes/fluid
-	url = git@github.com:keybrl/hexo-theme-fluid.git
+	url = https://github.com/keybrl/hexo-theme-fluid.git
 [submodule "archive/my-blog-2018plus"]
 	path = archive/my-blog-2018plus
 	url = https://github.com/keybrl/my-blog-2018plus.git
