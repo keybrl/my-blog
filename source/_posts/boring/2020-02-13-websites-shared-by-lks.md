@@ -1,7 +1,7 @@
 ---
 title: LKs 推荐的网站
 date: 2020-02-13
-updated: 2020-02-18
+updated: 2021-03-07
 layout: post
 categories:
 - 无聊的日常
@@ -21,11 +21,444 @@ index_img: https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-we
 
 1. 文中列出的链接我都尝试访问过其 HTTPS 的版本，如果能够访问且内容一致，那么我会自动把链接改成 `https://` 的。但是由于网站制作、管理者的问题，这些网站中的有一些使用了“不那么可信”的证书，有一些包含有非 HTTPS 的资源（比如图片），有一些年久失修的网站可能还会面临证书过期的问题，这些情况可能会被某些浏览器挑战，所以如果有这方面问题也可以尝试将 URL 中的 `https` 换成 `http` ；
 2. 如果 URL 中有多余的参数、锚点甚至路径，我会尝试去掉再访问，如果内容一致或者更适合推荐（比如主页比某个搜索页结果更合适），那么我会自动做这个修改；
-3. 如果访问时遇到 301 重定向，我会自动改为重定向后的 URL 。
+3. 如果访问时遇到 301 重定向，我会改为重定向后的 URL 。
+
+## 2021
+
+B 站视频链接： [良心到难以置信的网站推荐第7期丨全程干货](https://www.bilibili.com/video/BV1bU4y1x7A1)
+
+### 报告查一查
+
+网站链接： <http://report.seedsufe.com/#/report>
+
+> 轻量级行研工具
+
+![2021-bgcyc](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-bgcyc.jpg)
+
+这个网站收录了一些 **行业研究报告、数据** 可以免费查询、下载。
+
+### radio aporee
+
+网站链接： <https://aporee.org/maps/>
+
+这个网站我感觉我是打不开，看起来是个可以听到世界各地声音的网站。在地图上选一点可以听到附近别人上传的音频，还能配合谷歌街景身临其境感受一下。因为用了很多谷歌的服务，所以不太容易访问。但我的网络没问题也访问不了，只能显示个地球，加载不出任何信息。
+
+### Pexels
+
+网站链接： <https://www.pexels.com/zh-cn/>
+
+![2021-pexels](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-pexels.jpg)
+
+一个 **免费可商用图库** 。图片全部免费下载原图，可以免费用于商业用途。
+
+### removebg
+
+网站链接： <https://www.remove.bg/>
+
+![2021-removebg](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-removebg.jpg)
+
+很好理解，一个基于 AI 的 **图片背景消除工具** 。免费可以下载低清晰度照片。每个账号可以免费下载一次原图，多的要收费。
+
+### Unscreen
+
+网站链接： <https://www.unscreen.com/>
+
+![2021-unscreen](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-unscreen.jpg)
+
+类似于上一个网站，不过是针对视频的，一个基于 AI 的 **视频背景消除工具** 。免费可以导出低清晰度的 Gif ，给钱可以导出高清无水印视频。
+
+### TypeRacer
+
+网站链接： <https://play.typeracer.com/>
+
+> Test your typing speed and learn to type faster. Free typing game and competition. Way more fun than a typing tutor!
+> 
+> 译：测试你的打字速度，学习如何打得更快。免费打字游戏和竞争。比打字导师更有趣!
+
+![2021-typeracer](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-typeracer.jpg)
+
+顾名思义， **打字比赛** 网站。在上面可以跟匹配其它用户进行打字比赛。还有聊天室可以交流如何打字更快。
+
+### AirPortal
+
+网站链接： <https://airportal.cn/>
+
+![2021-airportal-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-airportal-1.jpg)
+
+这是一个 **文件、文本分享** 网站。不用注册，直接上传一个照片、文件、文件夹或者文本，就会得到一个接收码：
+
+![2021-airportal-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-airportal-2.jpg)
+
+可以分享链接，也可以让别人到这个网站输一下接收码，就能接收到你刚刚上传的东西。文件的话还能设置查看次数、保留时间等参数。文件是不能永久保留的，并不是网盘，只能作临时分享用，而且大文件是要收费的。
+
+### 宝贝DJ音乐网
+
+网站链接： <http://www.bbdj.com/>
+
+![2021-bbdj](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-bbdj.jpg)
+
+土味 **DJ 音乐** 网站。有全国各地 DJ 的串烧作品。
+
+### Adobe Color
+
+网站链接： <https://color.adobe.com/zh/create/color-wheel>
+
+![2021-adobe-color](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-adobe-color.jpg)
+
+**辅助配色** 网站。这是 Adobe 出的，可以根据一些配色原则，拖动光标，自动生成一些比较和谐的配色。也可以上传图片，这个网站能够自动分析出图片中的配色。还能对于色盲色弱患者难于辨认的颜色进行警告。
+
+### Sketchfab
+
+网站链接： <https://sketchfab.com/>
+
+> The leading platform for 3D & AR on the web.
+> 
+> 译：网络上领先的 3D 和 AR 平台。
+
+![2021-sketchfab-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-sketchfab-1.jpg)
+
+![2021-sketchfab-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-sketchfab-2.jpg)
+
+**3D 模型素材** 网站。有各种各样的 3D 模型素材，有些还是动态的。可以在线拖动预览，喜欢可以花钱买。
+
+### NUKEMAP
+
+网站链接： <https://nuclearsecrecy.com/nukemap/>
+
+![2021-nukemap](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-nukemap.jpg)
+
+这是一个 **核爆模拟器** 。选择爆炸点位置，爆炸方式是空爆还是地面爆炸，核爆当量，还有其它一些比较硬核的参数，然后点起爆。会预估杀伤半径，和死伤人数。
+
+比如上图是在我公司上空空爆一枚沙皇核弹（人类目前已知引爆过的爆炸当量最大的核弹），我所在的位置在中等爆炸伤害区：“多数房屋倒塌，人员普遍死亡”，那我估计就活不了了。
+
+这个网站是两个美国的“物理学历史学家”发起的项目，他们还做了可视化的 3D 蘑菇云生成。他们做这个项目是为了让大家更好地想象核爆的规模。因为人们普遍都会估计错误，有的人觉得一发核弹就能摧毁世界上的一切，有的人觉得威力和普通炸弹差不多，而实际是在这两者之间。他们只是呈现这样的结果，并不打算直接给出简单的政治信息。
+
+### 米画师
+
+网站链接： <https://www.mihuashi.com/artists>
+
+![2021-mihuashi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-mihuashi.jpg)
+
+**绘画约稿** 网站。上面有一些画师，你可以在上面出钱让他们帮你画东西。
+
+### Virtual Mauritshuis
+
+网站链接： <https://virtual.mauritshuis.nl/index.html?lang=en&startscene=0>
+
+![2021-mauritshuis](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-mauritshuis.jpg)
+
+**虚拟的莫瑞泰斯皇家美术馆** 。因为疫情大家都不能出门，所以这个美术馆做了这个网站，可以以 VR 的形式游览，而且素材清晰度非常高，甚至可以看到油画上油墨的裂纹。
+
+### ToonMe
+
+网站链接： <https://toonme.com/>
+
+![2021-toonme](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-toonme.jpg)
+
+上传一张三次元的大头照，这个网站可以帮你生成 **卡通风格大头照** 。用来做个头像啥的还挺合适。
+
+### 花火 Hanabi
+
+网站链接： <https://hanabi.data-viz.cn/>
+
+![2021-hanabi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-hanabi.jpg)
+
+**动态图表生成** 网站。 B 站有段时间有很多类似什么 100 年世界各国 GDP 变化的比较视频，其实都可以用这个网站制作，只要填数据，就能生成各种各样的动态图表。不过是要收费的。
+
+### fatsecret
+
+网站链接： <https://www.fatsecret.cn/%E7%83%AD%E9%87%8F%E8%90%A5%E5%85%BB/>
+
+![2021-fatsecret](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-fatsecret.jpg)
+
+可以找到 **各种食物的营养成分** ，减肥、健身之类的可以拿它参考。
+
+### Product Hunt
+
+网站链接： <https://www.producthunt.com/>
+
+![2021-producthunt](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-producthunt.jpg)
+
+这个网站集合了世界上各种 **奇奇怪怪的有趣的产品** 。比如有马斯克发表了针对某公司的评论就会提醒你（好让你赶紧去买股票）的 APP 。
+
+### Tunefind
+
+网站链接： <https://www.tunefind.com/>
+
+![2021-tunefind-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-tunefind-1.jpg)
+
+![2021-tunefind-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-tunefind-2.jpg)
+
+这是一个找 **电影、电视剧、游戏配乐** 的网站。如果看电影、电视剧或者玩游戏时听到一些不错的音乐，又不知道是啥，可以在这里搜搜看。比如上图是 Fallout 4 的背景音乐列表。
+
+### Reichenbergerstr 121
+
+网站链接： <https://imisstheoffice.eu/>
+
+![2021-imisstheoffice](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-imisstheoffice.jpg)
+
+正如页面左上角写的：闭上眼睛，想象你在办公室，这很美妙，不是吗？这是一个 **办公室声音模拟器** ，能够产生办公室里那种声音，脚步声、交谈声、打水、空调、打印机 ... 也许能帮助在家远程办公的人更好地进入工作状态。右下角可以调节办公室人数。也可以点击界面上的东西让他们发出更明显的声音。
+
+Reichenberger Str. 121 应该是德国的一个地址，我猜是作者办公的地方。
+
+### This X Does not Exist
+
+网站链接： <https://thisxdoesnotexist.com/>
+
+> Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month.
+>
+> 译：使用生成式对抗网络(GAN)，我们可以学习如何创建几乎任何东西的逼真外观的假版本，正如过去一个月兴起的这个网站集合所显示的那样。
+
+![2021-thisxdoesnotexist](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-thisxdoesnotexist.jpg)
+
+这是一个各种 **“这个x不存在”** 的集合，如网站简介所说，这里集合了各种使用对抗生成网络生成的不存在但是很像真的的东西。比如下面这个城市不存在：
+
+![2021-thiscitydoesnotexist](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2021-thiscitydoesnotexist.jpg)
+
+### 其它
+
+以下是 LKs Excel 里有的，但是只是让大家自己去看，并没有详细说的。那我也不一个个说了，就列出来：
+
+1. 尺寸 <https://www.dimensions.com/>
+2. 森林之声 <https://www.tree.fm/>
+3. 西方电音 <https://www.traxsource.com/dj-top-10s>
+4. 猜真假 <https://landing.adobe.com/en/na/products/creative-cloud/69308-real-or-photoshop/index.html>
+5. 魔性 <https://patatap.com/>
+6. 中华珍宝馆 <https://www.ltfc.net/exhibit/recent>
+7. 英语游戏 <https://www.merriam-webster.com/>
+8. 防疫政策 <https://i.snssdk.com/feoffline/ugc_activities/html/epidemic-prevention-sftr/index.html>
+
+## 2020H2
+
+B 站视频链接： [良心到难以置信的网站推荐第6期丨上网必备](https://www.bilibili.com/video/BV1wv411y7L6)
+
+虽然这理论上是一个年更系列，但是发这个视频时距离上一个不到一年。 LKs 自己解释说其它视频进度都卡着，所以先出个这个。好吧，所以就起名叫 2020H2 吧，因为是下半年出的。
+
+### Gnoosic - Discover new Music
+
+网站链接： <https://www.gnoosic.com/faves.php>
+
+> Welcome to Gnod's World of Music
+> 
+> Gnod is a self-adapting system that learns about the outer world by asking its visitors what they like and what they don't like. In this instance of Gnod all is about music. Gnod is kind of a search engine for music you don't know about. It will ask you what music you like and then think about what you might like too. When I set Gnod online its database was completely empty. Now it contains hundreds of thousands of bands and quite some knowledge about who likes what. And Gnod learns more every day. Enjoy!
+> 
+> 译： Gnod 是一个自适应系统，它通过询问访客喜欢什么，不喜欢什么来了解外部世界。当前的 Gnod 完全是关于音乐的。 Gnod 算是一个你不知道的音乐搜索引擎。它会先问你喜欢什么音乐，然后想想你可能也会喜欢其它什么。当我把 Gnod 部署到网上的时候，它的数据库是完全空的。现在它包含了几十万个乐队和一些关于某人喜欢什么的知识。而且 Gnod 每天都在学习更多的知识。好好享受吧！
+
+![2020h2-gnoosic-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-gnoosic-1.jpg)
+
+![2020h2-gnoosic-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-gnoosic-2.jpg)
+
+你只要在上面输入三个你喜欢的歌手，它会自动给你 **推荐歌手** ，你可以点喜欢或者不喜欢，它会根据你的反馈调整，再给你推荐一些歌手。
+
+### foreignrap
+
+网站链接： <https://foreignrap.com/>
+
+![2020h2-foreignrap-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-foreignrap-1.jpg)
+
+![2020h2-foreignrap-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-foreignrap-2.jpg)
+
+一个 **rap 的听歌的网站** 。集合了各种风格的 rap ，分不同的 channel ，挑一个感兴趣的 channel 之后它就会开始自动播放。不过音源和视频都来自于 Youtube ，需要一点特殊手段才能听到，否则进去就是一片黑。
+
+### wallhaven
+
+网站链接： <https://wallhaven.cc/>
+
+![2020h2-wallhaven-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-wallhaven-1.jpg)
+
+![2020h2-wallhaven-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-wallhaven-2.jpg)
+
+**壁纸网站** 。无需注册、免费、高清、可下载。还带有图源的链接，有丰富的可检索标签。
+
+### Fiverr
+
+网站链接： <https://www.fiverr.com/>
+
+> Find the perfect *freelance* services for your business.
+> 
+> 译：为您的企业寻找完美的自由职业者服务。
+
+![2020h2-fiverr](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-fiverr.jpg)
+
+一个找 **自由职业者、工作室外包** 的网站，或者按 LKs 的说法“私人定制”网站。你在上面你可以找人定制 logo 、画画、做个简历、剪个短片、配音、混音、修音、做个网站 ... 不过目前来我看是，没有中文，不能用人民币结算，可能不太方便使用。
+
+### AirPano
+
+网站链接： <https://www.airpano.com/>
+
+> A virtual journey around the world.
+> 
+> 译：虚拟环游世界。
+
+![2016-airpano](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2016-airpano.jpg)
+
+这个网站收录了很多 **360° 全景图片、视频** 。比如这样的：
+
+![2016-airpano-example](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2016-airpano-example.jpg)
+
+这个网站 LKs 在 2016 年就推荐过了，这次重新推荐了一次，因为网站内容比几年前又丰富了很多。这里是直接把 2016 年的简介搬过来了。
+
+### Tsukimeizi
+
+- 微博： <https://weibo.com/u/1864285325>
+- Stage1st ： <https://bbs.saraba1st.com/2b/space-uid-197835.html>
+
+这其实是个人，不是个网站。可以说是一个 **旅行博主** 吧。写了很多世界各地顶级酒店、饮食的介绍。上面是他的微博和 Stage1st 论坛链接。不过 Stage1st 要付费注册，所以我就没有去看。
+
+![2020h2-tsukimeizi](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-tsukimeizi.jpg)
+
+### WindowSwap
+
+网站链接： <https://window-swap.com/>
+
+![2020h2-windowswap-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-windowswap-1.jpg)
+
+![2020h2-windowswap-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-windowswap-2.jpg)
+
+在这个网站你可以随机 **查看世界各地的窗户** 。这个网站创作的动机是疫情大家都出不了门，呆在家里只能通过窗户看外面。通过这个网站你可以跟全世界分享你家的窗户，也可以查看其他人的窗户。
+
+### LALA.AI
+
+网站链接： <https://www.lalal.ai/>
+
+![2020h2-lalaai](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-lalaai.jpg)
+
+基于 AI 的音乐 **伴奏分离工具** 。虽然 LKs 说这个网站免费，但是我试用的这个时间已经要收费了，有一定的免费额度，超出也可以付费使用。听起来感觉人声和伴奏还是分的很清楚的。
+
+### All to All
+
+网站链接： <https://www.alltoall.net/>
+
+![2020h2-alltoall](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-alltoall.jpg)
+
+超级全的 **文件格式转换** 网站，免费使用，无需注册。
+
+LKs 还顺便推荐了一个类似的网站： <https://www.aconvert.com/cn/>
+
+### DeepL
+
+网站链接： <https://www.deepl.com/translator>
+
+![2020h2-deepl](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-deepl.jpg)
+
+**在线翻译** 网站。免费，无需注册，除了能在文本框输入待翻译的文本，也可以翻译文档文件。传说比 Google 翻译要厉害很多，大家自行感受吧。
+
+### Yanderify
+
+网站链接： <https://yanderify.com/>
+
+我写这篇文章时，这个网站已经不能访问了。这是个通过 **AI 换脸** 的网站。上传一个带有 A 脸的动态视频和一个 B 的静态人脸图片，这个网站能够生成一个 B 脸的人在做 A 视频动作、表情的视频。
+
+可能有一些法律风险。
+
+### 能不能好好说话？
+
+网站链接： <https://lab.magiconch.com/nbnhhsh/>
+
+![2020h2-nbnhhsh](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-nbnhhsh.jpg)
+
+**拼音简写释义** 。现在很多人说话喜欢用拼音简写，网站作者觉得很讨厌，为了让更多人能勉强适应这种方式，所以做了这个网站。除了可以在网站上查询，也可以下载用户脚本添加到网站中实现划词搜索。
+
+顺便一提，这个人还挺有意思，这个网站主页还有几个有意思的项目。
+
+### wikiHow
+
+网站链接： <https://zh.wikihow.com/%E9%A6%96%E9%A1%B5>
+
+![2020h2-wikihow](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-wikihow.jpg)
+
+**日常生活的教程** 网站。有各种日常生活中关于如何做什么的图文教程。
+
+很详细，但看了几篇感觉没什么用，因为我个人感觉现实是复杂的，没有可能用一种简单又通俗易懂的方式说明清楚什么事情，如果一个说明很简单那么它不会通俗易懂，如果它通俗易懂一般要比较冗长，如果既简单又通俗易懂那多半包含很多谬误或者局限性。在这个网站中体现基本上就是，写得很理想很容易，但是在现实中有很多情况不能对应。比如这个 [如何治疗冠状病毒感染](https://zh.wikihow.com/%E6%B2%BB%E7%96%97%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93) 就很不像一个在中国能实现的处理流程，什么联系医生，我哪有医生可以联系，还有去医院之前让医生知道你可能感染冠状病毒，我甚至没有医院电话。
+
+### Windy
+
+网站链接： <https://www.windy.com/>
+
+![2020h2-windy](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-windy.jpg)
+
+一个强大的 **天气网站** 。集合了多种数据源，能查看云图、雨量、温度、湿度、空气质量、风等气象数据，可视化做得也很好。能提供多种标准下的天气预报，和当地能体现天气的 24 小时内的一些户外图像数据。
+
+### This website will self destruct
+
+网站链接： <https://www.thiswebsitewillselfdestruct.com/>
+
+![2020h2-thiswebsitewillselfdestruct](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-thiswebsitewillselfdestruct.jpg)
+
+> Hi,
+> 
+> I’m a website. I’ll be gone soon, and that’s okay.
+> 
+> You can send me messages using the form below. If I go 24 hours without receiving a message, I’ll permanently self-destruct, and everything will be wiped from my database.
+> 
+> That’s okay though.
+> 
+> Until then, let me know how you’re doing. Other people will be able to read what you write, but your name or identity won’t be attached to anything, so feel free to say what’s on your mind.
+> 
+> It’s been a rough few months.
+> 
+> With love,
+> 
+> ThisWebsiteWillSelfdestruct (dot) com
+> 
+> P.S. I believe in an internet free from invasive ads and online tracking. To that end, this website is supported by donations from people like you.
+> 
+> Interested in sponsoring the site? Email Me at <Femme@FemmeAndroid.com>, and introduce yourself.
+> 
+> 译文：
+>
+> 嗨，
+> 
+> 我是一个网站。我就快要走了，这没关系。
+> 
+> 你可以用下面的表格给我发送消息。如果我过去 24h 内没有接收到一条消息，我就会永久自毁，并将我数据库中的一切清除掉。
+> 
+> 不过这没关系。
+> 
+> 在那之前我想知道你会怎么做。你写的内容能够被其他人看见，但你的名字和身份标识不会被记录，所以可以放心地说任何你想说的。
+> 
+> 这已经好几个月了。
+> 
+> 献给你的爱，
+>
+> ThisWebsiteWillSelfdestruct (dot) com
+>
+> 注：我相信在一个没有广告没有在线跟踪的互联网。为此，该网站由你这样的人捐赠所支持。
+> 
+> 有兴趣赞助吗？可以发邮件给我 <Femme@FemmeAndroid.com> 介绍一下你自己。
+
+很好理解，这是一个行为艺术网站，一个 **自毁网站** 。你可以给它发消息，也可以看别人给它写的一些励志的消息。如果它连续 24h 没有接收到任何消息，它就会永久自毁。在我看见它时它以经存在了 10 个多月了。
+
+### Being the Name
+
+网站链接： <https://www.behindthename.com/>
+
+> the etymology and history of first names.
+> 
+> 译： 名字的词源和历史
+
+![2020h2-being-the-name-1](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-being-the-name-1.jpg)
+
+![2020h2-being-the-name-2](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020h2-being-the-name-2.jpg)
+
+**起名字** 网站。有一些名字的介绍，还能随机生成名字。甚至还能根据名字生成人设。
+
+### 其它
+
+以下是 LKs Excel 里有的，但是只是让大家自己去看，并没有详细说的。那我也不一个个说了，就列出来：
+
+1. 版权音乐曲库 <https://www.epidemicsound.com>
+2. 独立游戏 <https://www.indiexpo.net/>
+3. 学钢琴 <https://app.flowkey.com.cn/>
+4. 相机镜头焦段光圈预览 <https://www.samyanglens.com/en/product/simulator/lens.php>
+5. 全球生活水平 <https://www.gapminder.org/dollar-street/>
+6. 海 <https://seaside-station.com/region/hokkaido/>
+7. 标准地图 <http://bzdt.ch.mnr.gov.cn/index.html>
+8. 色差辨别游戏 <http://www.cuishuai.cc/game/>
 
 ## 2020
 
-B 站视频链接： [【年更】良心到难以置信的网站推荐第5期丨超长注意](https://www.bilibili.com/video/av88646573/)
+B 站视频链接： [【年更】良心到难以置信的网站推荐第5期丨超长注意](https://www.bilibili.com/video/BV1a741137NS)
 
 ### 千亿像素看中国
 
@@ -43,7 +476,8 @@ B 站视频链接： [【年更】良心到难以置信的网站推荐第5期丨
 
 网站链接： <https://slidesgo.com/>
 
-> Free Google Slides and PowerPoint templates to boost your presentations.  
+> Free Google Slides and PowerPoint templates to boost your presentations.
+> 
 > 译：免费的 Google Slides 和 PowerPoint 模板让您的演讲如虎添翼。
 
 ![2020-flidesgo](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020-slidesgo.jpg)
@@ -106,7 +540,7 @@ B 站视频链接： [【年更】良心到难以置信的网站推荐第5期丨
 
 ![2020-learning-music](https://blog-assets-1253422097.file.myqcloud.com/images/2020-02-13-websites-shared-by-lks/2020-learning-music.jpg)
 
-[Ableton](https://www.ableton.com/) 应该是一个专业的音乐制作软件公司，而这个网站就是 Ableton 做得。一个教你 **学音乐** 的教程类的游戏。通过自己尝试制作一小部分自己试听，搭配示例和说明，教你什么叫搭配、节奏、音色、节拍速度、速度和曲风、反拍节奏、 ... 当你学到最后 ... 你就成为了 Ableton 的用户。
+[Ableton](https://www.ableton.com/) 应该是一个专业的音乐制作软件公司，而这个网站就是 Ableton 做的。一个教你 **学音乐** 的教程类的游戏。通过自己尝试制作一小部分自己试听，搭配示例和说明，教你什么叫搭配、节奏、音色、节拍速度、速度和曲风、反拍节奏、 ... 当你学到最后 ... 你就成为了 Ableton 的用户。
 
 ### 考拉新媒体导航
 
@@ -338,7 +772,7 @@ B 站视频链接： [【年更】良心到难以置信的网站推荐第5期丨
 
 ## 2019
 
-B 站视频链接： [【年更】探索互联网深处的优秀网站 (四)丨超长注意](https://www.bilibili.com/video/av66209341/)
+B 站视频链接： [【年更】探索互联网深处的优秀网站 (四)丨超长注意](https://www.bilibili.com/video/BV1M4411m7Mz)
 
 ### urlgot
 
@@ -536,7 +970,7 @@ B 站视频链接： [【年更】探索互联网深处的优秀网站 (四)丨�
 
 ## 2018
 
-B 站视频链接： [【超长注意】探索互联网深处的优秀网站 (三) 丨年度震撼更新](https://www.bilibili.com/video/av27234784/)
+B 站视频链接： [【超长注意】探索互联网深处的优秀网站 (三) 丨年度震撼更新](https://www.bilibili.com/video/BV1fs411E7ht)
 
 ### 1688
 
@@ -687,7 +1121,7 @@ B 站视频链接： [【超长注意】探索互联网深处的优秀网站 (�
 
 ## 2017
 
-B 站视频链接： [【超长注意】探索互联网深处的优秀网站(二)](https://www.bilibili.com/video/av9856372/)
+B 站视频链接： [【超长注意】探索互联网深处的优秀网站(二)](https://www.bilibili.com/video/BV1Nx411D78D)
 
 ### 五花肉
 
@@ -884,7 +1318,7 @@ SONNISS.COM 是一个卖声音素材的公司，这个网站是该公司为了�
 
 ## 2016
 
-B 站视频链接： [【超长注意】探索隐藏在互联网深处的优秀网站](https://www.bilibili.com/video/av3743771/)
+B 站视频链接： [【超长注意】探索隐藏在互联网深处的优秀网站](https://www.bilibili.com/video/BV11s411X7u5)
 
 不知道为什么这个链接直接点开是 404 ，但是复制链接手动打开就没有问题。
 
